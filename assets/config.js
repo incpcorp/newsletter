@@ -2,6 +2,6 @@
    예) endpoint: "https://script.google.com/macros/s/XXXXXXXX/exec" */
 window.DIF_CONFIG = {
   endpoint: "",
-  contact: "news@diforum.org",
+  contact: "incp@diforum.org",
   consentVersion: "2026-10-v1"
 };
