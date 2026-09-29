@@ -1,0 +1,29 @@
+<!DOCTYPE html><html lang="ko"><head><meta name="robots" content="noindex"><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>구독 확인 | DI Forum</title><meta name="description" content="DI Forum 뉴스레터 구독 확인 · 수신거부 처리">
+<meta property="og:title" content="구독 확인 | DI Forum"><meta property="og:description" content="DI Forum 뉴스레터 구독 확인 · 수신거부 처리">
+<meta name="theme-color" content="#221d38"><link rel="stylesheet" href="assets/site.css">
+<link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="icon" href="favicon.ico" sizes="48x48"><link rel="apple-touch-icon" href="apple-touch-icon.png"></head><body><div class="dif-top" style="background:#16122a;border-bottom:1px solid rgba(255,255,255,.08);font-family:'Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',sans-serif"><div style="max-width:1180px;margin:0 auto;padding:7px 16px;display:flex;align-items:center;justify-content:space-between;gap:10px"><a href="index.html" style="display:inline-flex;align-items:center;gap:8px;color:#fff;text-decoration:none;font-size:13px;font-weight:800;background:linear-gradient(135deg,#685890,#38B8B8);padding:6px 14px;border-radius:999px"><svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><path d="M12 3l7.5 3v5.5c0 4.6-3.2 8.3-7.5 9.5-4.3-1.2-7.5-4.9-7.5-9.5V6L12 3z" fill="none" stroke="#fff" stroke-width="1.8" stroke-linejoin="round"/><path d="M8.5 12.2l2.4 2.4 4.6-4.9" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>DI Forum 메인 바로가기</a><span style="color:#a79fc6;font-size:12px;font-weight:700;white-space:nowrap">diforum.org</span></div></div>
+<div class="dif-bar"><div class="wrap"><a class="home" href="index.html">← DI Forum</a><nav><a href="index.html#issues">Newsletter</a><a href="forum/index.html">Forum</a><a href="library/index.html">자료실</a><a href="index.html#subscribe">구독</a><a href="https://incpcorp.diforum.org" target="_blank" rel="noopener">I&amp;CP ↗</a></nav></div></div>
+<header class="phero"><div class="wrap"><span class="kick">DI FORUM · NEWSLETTER</span>
+<h1 id="cf-title">처리 중입니다…</h1><p class="lead" id="cf-msg">잠시만 기다려 주세요.</p>
+<p style="margin-top:22px"><a class="btn b1" href="index.html" id="cf-home" style="display:none">DI Forum 첫 화면으로 →</a></p></div></header>
+<main class="wrap"><section class="blk"><p class="note" id="cf-help" style="display:none">문제가 계속되면 <a href="mailto:incp@diforum.org">incp@diforum.org</a> 로 알려 주세요. 바로 처리해 드립니다.</p></section></main>
+<script>(function(){
+var q=new URLSearchParams(location.search),a=q.get('a')||'',t=q.get('t')||'';
+var T=document.getElementById('cf-title'),M=document.getElementById('cf-msg'),H=document.getElementById('cf-home'),P=document.getElementById('cf-help');
+function show(title,msg,ok){T.textContent=title;M.textContent=msg;H.style.display='inline-block';if(!ok)P.style.display='block';document.title=title+' | DI Forum';}
+function go(){
+ var ep=(window.DIF_CONFIG||{}).endpoint;
+ if(!ep){return show('잠시 후 다시 시도해 주세요','구독 시스템에 연결하지 못했습니다.',false);}
+ if(t==='TEST'){return show('테스트 메일의 링크입니다','실제 발송 메일에서는 이 링크로 수신거부가 처리됩니다.',true);}
+ if(!/^[0-9a-f]{32}$/.test(t)||(a!=='confirm'&&a!=='unsub')){return show('링크가 올바르지 않습니다','메일에 있는 링크를 다시 눌러 주세요.',false);}
+ fetch(ep+'?a='+encodeURIComponent(a)+'&t='+encodeURIComponent(t)+'&f=json').then(function(r){return r.json();})
+  .then(function(j){show(j.title||'처리되었습니다',j.message||'',j.ok!==false);})
+  .catch(function(){show('처리 결과를 확인하지 못했습니다','잠시 후 메일의 버튼을 다시 눌러 주세요.',false);});
+}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',go);else go();
+})();</script>
+<footer class="site">DI Forum · Data Integrity Forum<br>Operated by <a href="https://incpcorp.diforum.org" target="_blank" rel="noopener">㈜아이앤씨피 (i&amp;CP Co., Ltd.)</a> · <a href="privacy.html">개인정보 처리방침</a></footer>
+<script src="assets/config.js"></script><script src="assets/subscribe.js"></script>
+</body></html>
