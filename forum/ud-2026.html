@@ -33,7 +33,12 @@ lb.querySelector('.x').onclick=function(){lb.classList.remove('on')};lb.querySel
 lb.addEventListener('click',function(e){if(e.target===lb)lb.classList.remove('on')});
 document.addEventListener('keydown',function(e){if(!lb.classList.contains('on'))return;if(e.key==='Escape')lb.classList.remove('on');if(e.key==='ArrowLeft')show(k-1);if(e.key==='ArrowRight')show(k+1)});})();</script></section>
 <section class="blk"><div class="sh"><h2>다른 회차 보기</h2><a class="more" href="index.html#update">전체 아카이브 →</a></div><div class="grid g2"><a class="dl" href="ud-2025.html"><span class="ic" style="background:#e6f6f6;color:#1f8f8f">2025</span><span><b>Update for DI 2차 · DI의 이해 및 사례</b><small>Data Governance 확립부터 Audit Trail 검토 · GMP AI 활용까지</small></span><span class="ar">→</span></a><a class="dl" href="ud-2024.html"><span class="ic" style="background:#e6f6f6;color:#1f8f8f">2024</span><span><b>Update for DI 1차 · Data Integrity의 이해 및 사례</b><small>Best Practices for Data Integrity — 이틀간 7개 파트</small></span><span class="ar">→</span></a><a class="dl" href="index.html"><span class="ic" style="background:#f2f0f7;color:#685890">DIF</span><span><b>DI Forum (코엑스) 2024–2026</b><small>가을 · KOREA LIFE SCIENCE WEEK</small></span><span class="ar">→</span></a></div></section>
-<section class="blk"><div class="subx" id="subscribe">
+<section class="blk"><div class="dif-ask" role="note" style="display:flex;gap:14px;align-items:flex-start;background:#e6f6f6;border:1px solid #bfe6e6;border-left:6px solid #1f8f8f;border-radius:12px;padding:16px 18px;margin:0 0 14px;line-height:1.6;text-align:left">
+ <span aria-hidden="true" style="flex:0 0 auto;background:#1f8f8f;color:#fff;font-weight:800;font-size:12px;letter-spacing:.5px;border-radius:999px;padding:3px 11px;margin-top:2px">알림</span>
+ <div><b style="display:block;font-size:16.5px;color:#0e4f4f">해석이 어려웠던 규정·가이드라인을 알려 주세요</b>
+ <span style="font-size:14.5px;color:#1a1a1a">규정이나 가이드라인을 읽다가 해석이 분명하지 않았던 부분이 있다면 <a href="mailto:incp@diforum.org?subject=%5BDI%20Forum%5D%20%ED%8A%B9%EB%B3%84%ED%8C%90%20%EC%A3%BC%EC%A0%9C%20%EC%9A%94%EC%B2%AD" style="color:#685890;font-weight:700">incp@diforum.org</a>로 보내 주세요. 10명 이상이 요청해 주신 주제는 <b>특별판 뉴스레터</b>로 다루겠습니다.</span></div>
+</div>
+<div class="subx" id="subscribe">
  <h2>다음 Update for DI 소식 받기</h2><p>세미나 일정과 자료 공개 소식을 뉴스레터로 보내 드립니다.</p>
  <form class="dif-sub" novalidate>
   <div class="row"><input type="email" name="email" placeholder="이메일 주소 (필수)" autocomplete="email" required aria-label="이메일 주소">

@@ -33,7 +33,12 @@ lb.addEventListener('click',function(e){if(e.target===lb)lb.classList.remove('on
 document.addEventListener('keydown',function(e){if(!lb.classList.contains('on'))return;if(e.key==='Escape')lb.classList.remove('on');if(e.key==='ArrowLeft')show(k-1);if(e.key==='ArrowRight')show(k+1)});})();</script>
 </section>
 <section class="blk"><div class="sh"><h2>다른 회차 보기</h2><a class="more" href="index.html">전체 아카이브 →</a></div><div class="grid g2"><a class="dl" href="2026.html"><span class="ic" style="background:#f2f0f7;color:#685890">2026</span><span><b>제3차 · Data Integrity by Design</b><small>AI와 디지털 전환 시대의 데이터 신뢰성</small></span><span class="ar">→</span></a><a class="dl" href="2025.html"><span class="ic" style="background:#f2f0f7;color:#685890">2025</span><span><b>제2차 · EU GMP Update</b><small>Chapter 4 · Annex 11 개정과 신규 Annex 22(AI) 심층 분석</small></span><span class="ar">→</span></a></div></section>
-<section class="blk"><div class="subx" id="subscribe">
+<section class="blk"><div class="dif-ask" role="note" style="display:flex;gap:14px;align-items:flex-start;background:#e6f6f6;border:1px solid #bfe6e6;border-left:6px solid #1f8f8f;border-radius:12px;padding:16px 18px;margin:0 0 14px;line-height:1.6;text-align:left">
+ <span aria-hidden="true" style="flex:0 0 auto;background:#1f8f8f;color:#fff;font-weight:800;font-size:12px;letter-spacing:.5px;border-radius:999px;padding:3px 11px;margin-top:2px">알림</span>
+ <div><b style="display:block;font-size:16.5px;color:#0e4f4f">해석이 어려웠던 규정·가이드라인을 알려 주세요</b>
+ <span style="font-size:14.5px;color:#1a1a1a">규정이나 가이드라인을 읽다가 해석이 분명하지 않았던 부분이 있다면 <a href="mailto:incp@diforum.org?subject=%5BDI%20Forum%5D%20%ED%8A%B9%EB%B3%84%ED%8C%90%20%EC%A3%BC%EC%A0%9C%20%EC%9A%94%EC%B2%AD" style="color:#685890;font-weight:700">incp@diforum.org</a>로 보내 주세요. 10명 이상이 요청해 주신 주제는 <b>특별판 뉴스레터</b>로 다루겠습니다.</span></div>
+</div>
+<div class="subx" id="subscribe">
  <h2>DI Forum 뉴스레터 이메일 구독</h2><p>새 호와 포럼 소식을 메일로 받아보세요. 월 1~2회 발송, 언제든 수신거부할 수 있습니다.</p>
  <form class="dif-sub" novalidate>
   <div class="row"><input type="email" name="email" placeholder="이메일 주소 (필수)" autocomplete="email" required aria-label="이메일 주소">
