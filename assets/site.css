@@ -8,7 +8,7 @@ a{color:var(--purple)}img{max-width:100%;display:block}
 .dif-bar{background:var(--deep2);position:sticky;top:0;z-index:20}
 .dif-bar .wrap{display:flex;justify-content:space-between;align-items:center;gap:12px;padding-top:10px;padding-bottom:10px;font-size:13px}
 .dif-bar a{color:#d6d1e8;text-decoration:none}.dif-bar a:hover{color:#fff}
-.dif-bar .home{color:var(--teal);font-weight:800}
+.dif-bar .home{color:#fff;font-weight:800;display:inline-flex;align-items:center;gap:7px;white-space:nowrap}
 .dif-bar nav{display:flex;gap:16px;flex-wrap:wrap;justify-content:flex-end}
 .dif-bar nav a.on{color:#fff;font-weight:800}
 /* hero */
