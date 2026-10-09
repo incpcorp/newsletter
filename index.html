@@ -91,6 +91,17 @@ footer{text-align:center;font-size:13px;color:var(--grey);padding:28px 20px 44px
 .sc:nth-child(7) .ci::before{background:linear-gradient(135deg,#685890,#5fd3b0)}
 .more{font-size:14px;font-weight:700;color:var(--purple);text-decoration:none}
 .fsec{margin-top:40px}.fsec .sec{margin-bottom:14px}
+.dsec{margin-top:40px}.dsec .sec{margin-bottom:14px}.dsec .more{white-space:nowrap}.dsec .sec h2 small{font-size:14px;color:var(--grey);font-weight:600;margin-left:8px;letter-spacing:0}
+.dlist{background:#fff;border:1px solid var(--line);border-top:4px solid var(--teal);border-radius:16px;overflow:hidden}
+.drow{display:grid;grid-template-columns:74px 1fr 22px;gap:16px;align-items:center;padding:15px 20px;border-top:1px solid var(--line);text-decoration:none;color:inherit}
+.drow:first-child{border-top:0}.drow:hover{background:#faf9fd}
+.dd{text-align:center;line-height:1.15;border-right:1px solid var(--line);padding-right:12px}.dd b{display:block;font-size:25px;color:var(--deep2)}.dd small{font-size:12px;color:var(--grey)}
+.dc{display:flex;flex-direction:column;align-items:flex-start;gap:3px;min-width:0}.drow .t{font-size:16px;font-weight:800;line-height:1.45}
+.drow .s{font-size:13.5px;color:#5b5670;display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}
+.drow .ar{color:var(--teal);font-weight:900;font-size:18px}
+.dcat{display:inline-block;border-radius:999px;padding:1px 10px;font-size:12px;font-weight:800;white-space:nowrap}
+.dcat.c1{background:#f2f0f7;color:#5a4b85}.dcat.c2{background:#e6f6f6;color:#0e4f4f}.dcat.c3{background:#fbf1dc;color:#7a4e0c}.dcat.c4{background:#fbe9ea;color:#8f2a31}.dcat.c5{background:#e9e7f1;color:#2E2848}
+@media (max-width:520px){.dsec .sec h2 small{display:block;margin:4px 0 0}.drow{grid-template-columns:60px 1fr;gap:12px;padding:13px 14px}.drow .ar{display:none}.dd{padding-right:8px}.dd b{font-size:21px}.dd small{font-size:10.5px;white-space:nowrap}.drow .t{font-size:15px}.drow .s{-webkit-line-clamp:2}}
 .fxs{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
 .fx{display:block;background:#fff;border:1px solid var(--line);border-radius:14px;overflow:hidden;text-decoration:none;color:inherit;transition:transform .15s,box-shadow .15s}
 .fx:hover{transform:translateY(-3px);box-shadow:0 12px 26px rgba(34,29,56,.12)}
@@ -123,7 +134,7 @@ footer{text-align:center;font-size:13px;color:var(--grey);padding:28px 20px 44px
 <div class="wrap">
  <div class="top">
   <a class="dlogo" href="index.html" aria-label="DI Forum 홈"><svg class="dmk" viewBox="8 8 90 90" width="44" height="44" aria-hidden="true" style="flex:none"><circle cx="40" cy="62" r="19" fill="none" stroke="#fff" stroke-width="15"/><rect x="52" y="14" width="15" height="67.5" rx="7.5" fill="#fff"/><rect x="52" y="60" width="15" height="21.5" fill="#fff"/><rect x="76" y="43" width="15" height="38.5" rx="7.5" fill="#fff"/><circle cx="83.5" cy="26.5" r="8.5" fill="#38B2B2"/></svg><span class="dv"></span><span class="dtx"><b>DI <i>Forum</i></b><small>DATA INTEGRITY FORUM</small></span></a>
-  <nav class="topnav"><a href="#issues">Newsletter</a><a href="forum/index.html">Forum</a><a href="library/index.html">자료실</a><a href="#subscribe">구독</a><a href="https://incpcorp.diforum.org" target="_blank" rel="noopener">I&amp;CP ↗</a></nav>
+  <nav class="topnav"><a href="#issues">Newsletter</a><a href="update/index.html">DI 동향</a><a href="forum/index.html">Forum</a><a href="library/index.html">자료실</a><a href="#subscribe">구독</a><a href="https://incpcorp.diforum.org" target="_blank" rel="noopener">I&amp;CP ↗</a></nav>
  </div>
  <div class="hin">
   <span class="kick"><i></i>Data Governance · Pharma 4.0 · Quality Culture</span>
@@ -175,6 +186,18 @@ footer{text-align:center;font-size:13px;color:var(--grey);padding:28px 20px 44px
 </a>
 <!--ISSUES-END-->
  </div>
+<section class="dsec" id="di-update"><div class="sec"><h2>DI 동향 <small>오늘의 Data Integrity 동향 · 평일 업데이트</small></h2><a class="more" href="update/index.html">전체 보기 →</a></div>
+<div class="dlist" id="dlist"><a class="drow" href="update/index.html"><span class="dd"><b>DI</b><small>동향</small></span><span class="dc"><span class="t">최신 DI 동향 보기</span><span class="s">규제 동향 · 현장 Q&amp;A · 용어 한 줄 · 사례 노트 · 포럼 소식을 평일마다 짧게 올립니다</span></span><span class="ar" aria-hidden="true">→</span></a></div>
+<script>(function(){var box=document.getElementById('dlist');if(!box||!window.fetch)return;
+var CC={'규제 동향':'c1','현장 Q&A':'c2','용어 한 줄':'c3','사례 노트':'c4','포럼 소식':'c5'},WD=['일','월','화','수','목','금','토'];
+function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e}
+fetch('update/feed.json',{cache:'no-cache'}).then(function(r){return r.ok?r.json():[]}).then(function(L){
+ if(!L||!L.length)return;box.innerHTML='';
+ L.slice(0,5).forEach(function(p){var d=new Date(p.date+'T12:00:00+09:00');var a=el('a','drow');a.href='update/'+encodeURIComponent(p.no)+'.html';
+  var dd=el('span','dd');dd.appendChild(el('b','',String(d.getDate())));dd.appendChild(el('small','',(d.getMonth()+1)+'월 · '+WD[d.getDay()]));
+  var dc=el('span','dc');dc.appendChild(el('span','dcat '+(CC[p.category]||'c5'),p.category||''));dc.appendChild(el('span','t',p.title||''));if(p.summary)dc.appendChild(el('span','s',p.summary));
+  a.appendChild(dd);a.appendChild(dc);var ar=el('span','ar','→');ar.setAttribute('aria-hidden','true');a.appendChild(ar);box.appendChild(a)});
+}).catch(function(){});})();</script></section>
 <section class="fsec" id="forum"><div class="sec"><h2>DI Forum · 행사 기록</h2><a class="more" href="forum/index.html">아카이브 전체 →</a></div>
 <div class="fxs"><a class="fx" href="forum/2026.html"><div class="fp" style="background-image:url(forum/img/2026-o01.jpg)"><span>2026</span></div><div class="fb"><small>제3차 · 2026. 9. 22</small><b>Data Integrity by Design</b><em>설계 · 확장 — DI by Design과 ESG · AI 거버넌스</em></div></a><a class="fx" href="forum/2025.html"><div class="fp" style="background-image:url(forum/img/2025-01.jpg)"><span>2025</span></div><div class="fb"><small>제2차 · 2025. 10. 1</small><b>EU GMP Update</b><em>규제 심화 · 디지털 GMP 대응</em></div></a><a class="fx" href="forum/2024.html"><div class="fp" style="background-image:url(forum/img/2024-p05.jpg)"><span>2024</span></div><div class="fb"><small>제1차 · 2024. 11. 12</small><b>Data Integrity의 이해와 사례 연구</b><em>이해 · 입문 — 토대 구축</em></div></a></div>
 <div class="sec" style="margin:22px 0 14px"><h2 style="font-size:20px">Update for Data Integrity · 킨텍스</h2><a class="more" href="forum/index.html#update">전체 보기 →</a></div>
