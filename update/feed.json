@@ -1,0 +1,20 @@
+[
+ {
+  "no": "261009-2",
+  "date": "2026-10-09",
+  "category": "현장 Q&A",
+  "title": "감사추적은 보관만 하면 충분할까요?",
+  "summary": "감사추적(점검기록)은 저장뿐 아니라 위험 기반 검토와 증거가 중요합니다.",
+  "url": "https://diforum.org/update/261009-2.html",
+  "ai": true
+ },
+ {
+  "no": "261009",
+  "date": "2026-10-09",
+  "category": "포럼 소식",
+  "title": "Update For Data Integrity 의 이름으로 소식을 전합니다.",
+  "summary": "DI 최신동향을 평일에 매일 올릴 예정입니다. ",
+  "url": "https://diforum.org/update/261009.html",
+  "ai": false
+ }
+]
