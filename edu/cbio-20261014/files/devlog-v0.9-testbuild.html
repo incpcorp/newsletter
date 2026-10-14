@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>DEV-LOG 교육용 일탈 접수·기한관리 대장 v0.9 (시험빌드)</title>
+<style>
+:root{--navy:#0E3A4F;--teal:#1C828C;--amber:#E19B1E;--ink:#1B2A33;--grey:#55636B;--panel:#ECF2F3;--bd:#D4DFE1;--red:#B3262E;--green:#2E7D57;--bg:#F6F8F9}
+*{box-sizing:border-box}body{margin:0;font-family:'Malgun Gothic','Apple SD Gothic Neo',sans-serif;color:var(--ink);background:var(--bg);font-size:14px}
+header{background:var(--navy);color:#fff;padding:14px 22px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
+header h1{font-size:18px;margin:0}header .tag{background:var(--amber);color:var(--navy);font-weight:700;padding:4px 10px;border-radius:4px;font-size:13px}
+header .ver{font-size:13px;color:#CFE4E9}
+main{max-width:1180px;margin:0 auto;padding:18px}
+section{background:#fff;border:1px solid var(--bd);border-radius:8px;padding:16px 18px;margin-bottom:16px}
+h2{font-size:15px;color:var(--navy);margin:0 0 12px;border-left:4px solid var(--teal);padding-left:8px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:10px 14px}
+label{display:block;font-size:12px;color:var(--grey);margin-bottom:3px;font-weight:700}
+input,select,textarea{width:100%;padding:7px 8px;border:1px solid var(--bd);border-radius:5px;font:inherit}
+textarea{min-height:54px}.full{grid-column:1/-1}
+button{background:var(--teal);color:#fff;border:0;border-radius:5px;padding:8px 16px;font:inherit;font-weight:700;cursor:pointer}
+button:hover{background:var(--navy)}button.sec{background:#fff;color:var(--navy);border:1px solid var(--bd)}
+.msg{margin-top:12px;padding:10px 12px;border-radius:6px;display:none}.msg.err{display:block;background:#F9ECED;border:1px solid var(--red);color:var(--red)}
+.msg.ok{display:block;background:#EAF3EE;border:1px solid var(--green);color:var(--green)}.msg ul{margin:4px 0 0 18px;padding:0}
+table{width:100%;border-collapse:collapse;font-size:13px}th{background:var(--navy);color:#fff;text-align:left;padding:7px 8px;font-weight:700}
+td{border-bottom:1px solid var(--bd);padding:7px 8px;vertical-align:top}tr:nth-child(even) td{background:var(--panel)}
+.late{color:var(--red);font-weight:700}.ok-t{color:var(--green);font-weight:700}.empty{color:var(--grey);text-align:center;padding:14px}
+.note{font-size:12px;color:var(--grey)}footer{text-align:center;font-size:12px;color:var(--grey);padding:6px 0 22px}
+.row{display:flex;gap:8px;align-items:end;flex-wrap:wrap}.row>div{flex:1;min-width:180px}
+</style></head><body>
+<header><h1>DEV-LOG 일탈 접수·기한관리 대장</h1><div><span class="tag">교육용 — 실제 GMP 업무 사용 금지</span> <span class="ver" id="ver">버전 v0.9 (시험빌드)</span></div></header>
+<main>
+<section><h2>1. 일탈 접수 입력</h2>
+<div class="grid">
+<div><label for="f-no">일탈번호</label><input id="f-no" placeholder="DEV-2026-031"></div>
+<div><label for="f-title">제목</label><input id="f-title"></div>
+<div><label for="f-product">제품명</label><input id="f-product"></div>
+<div><label for="f-batch">배치번호</label><input id="f-batch"></div>
+<div><label for="f-occ">발생일시</label><input id="f-occ" placeholder="YYYY-MM-DD HH:MM"></div>
+<div><label for="f-aware">인지일시</label><input id="f-aware" placeholder="YYYY-MM-DD HH:MM"></div>
+<div><label for="f-report">보고일시</label><input id="f-report" placeholder="YYYY-MM-DD HH:MM"></div>
+<div><label for="f-grade">등급</label><select id="f-grade"><option value="">선택</option><option>중대</option><option>경미</option></select></div>
+<div><label for="f-reporter">보고자</label><input id="f-reporter"></div>
+<div class="full"><label for="f-content">내용</label><textarea id="f-content"></textarea></div>
+</div>
+<p style="margin:12px 0 0"><button id="btn-add">등록</button> <button class="sec" id="btn-clear">입력 지우기</button></p>
+<div id="add-msg" class="msg" role="status"></div>
+</section>
+<section><h2>2. 일탈 대장</h2>
+<table><thead><tr><th>일탈번호</th><th>제목</th><th>제품 / 배치</th><th>등급</th><th>인지일시</th><th>보고 기한</th><th>조사 완료 기한</th></tr></thead><tbody id="ledger"><tr><td colspan="7" class="empty">등록된 일탈이 없습니다.</td></tr></tbody></table>
+<p class="note">보고 기한: 인지 후 24시간 이내 (QA-SOP-008 4.1) · 조사 완료 기한: 인지일 기준 중대 30일, 경미 15일 (4.3)</p>
+</section>
+<section><h2>3. 등록 기록 수정</h2>
+<div class="row">
+<div><label for="e-no">일탈번호</label><select id="e-no"><option value="">선택</option></select></div>
+<div><label for="e-field">수정 항목</label><select id="e-field"><option value="title">제목</option><option value="product">제품명</option><option value="batch">배치번호</option><option value="grade">등급</option><option value="reporter">보고자</option><option value="content">내용</option></select></div>
+<div><label for="e-value">변경 후 값</label><input id="e-value"></div>
+<div><label for="e-reason">수정 사유</label><input id="e-reason"></div>
+<div style="flex:0"><button id="btn-edit">수정 저장</button></div>
+</div>
+<div id="edit-msg" class="msg" role="status"></div>
+</section>
+<section><h2>4. 수정 이력</h2>
+<table><thead><tr><th>기록 시각</th><th>일탈번호</th><th>항목</th><th>변경 전 값</th><th>변경 후 값</th><th>수정 사유</th></tr></thead><tbody id="audit"><tr><td colspan="6" class="empty">수정 이력이 없습니다.</td></tr></tbody></table>
+<p class="note">기록 시각은 시스템 시계로 자동 기록됩니다. 이력은 편집·삭제할 수 없습니다.</p>
+</section>
+</main>
+<footer>이 화면의 데이터는 저장되지 않으며 새로고침하면 사라집니다. · 교육용 예제(URS-DEVLOG-001) · ⓒ 2026 아이앤씨피(I&amp;CP)</footer>
+<script>
+"use strict";
+const $ = id => document.getElementById(id);
+const FIELDS = [["no","일탈번호"],["title","제목"],["product","제품명"],["batch","배치번호"],["occ","발생일시"],["aware","인지일시"],["report","보고일시"],["grade","등급"],["reporter","보고자"],["content","내용"]];
+const LABEL = Object.fromEntries(FIELDS);
+const records = [];   // 등록 기록
+const auditLog = [];  // 수정 이력 (추가만 가능)
+
+function parseDT(s){ // "YYYY-MM-DD HH:MM" → {ok, fmt, t}
+  const m = /^(\d{4})-(\d{2})-(\d{2}) (\d{2}):(\d{2})$/.exec(s);
+  if(!m) return {fmt:false};
+  const [y,mo,d,h,mi] = m.slice(1).map(Number);
+  const dt = new Date(Date.UTC(y,mo-1,d,h,mi));
+  const valid = h<24 && mi<60 && dt.getUTCFullYear()===y && dt.getUTCMonth()===mo-1 && dt.getUTCDate()===d;
+  return {fmt:true, ok:valid, t:dt.getTime(), y, mo, d};
+}
+function pad(n){return String(n).padStart(2,"0");}
+function fmtDate(ms){const d=new Date(ms);return d.getUTCFullYear()+"-"+pad(d.getUTCMonth()+1)+"-"+pad(d.getUTCDate());}
+function nowStamp(){const d=new Date();return d.getFullYear()+"-"+pad(d.getMonth()+1)+"-"+pad(d.getDate())+" "+pad(d.getHours())+":"+pad(d.getMinutes())+":"+pad(d.getSeconds());}
+function readForm(){const v={};FIELDS.forEach(([k])=>{v[k]=$("f-"+k).value.trim();});return v;}
+
+function validate(v){
+  const errs=[];
+  FIELDS.forEach(([k,lab])=>{ if(!v[k]) errs.push(lab+": 누락"); });
+  if(v.no && !/^DEV-\d{4}-\d{3}$/.test(v.no)) errs.push("일탈번호: 형식 오류 (DEV-YYYY-NNN)");
+  if(v.no && records.some(r=>r.no===v.no)) errs.push("일탈번호: 중복 (이미 등록됨)");
+  const p={};
+  ["occ","aware","report"].forEach(k=>{
+    if(!v[k]) return;
+    const x=parseDT(v[k]);
+    if(!x.fmt) errs.push(LABEL[k]+": 형식 오류 (YYYY-MM-DD HH:MM)");
+    else if(!x.ok) errs.push(LABEL[k]+": 존재하지 않는 날짜·시각");
+    else p[k]=x;
+  });
+  const o=p.occ&&p.occ.t, a=p.aware&&p.aware.t, r=p.report&&p.report.t;
+  if (o && a && o > a) errs.push("시간 순서 오류: 발생일시 ≤ 인지일시 ≤ 보고일시");
+  return {errs, p};
+}
+function deadlines(rec){
+  const a=parseDT(rec.aware), r=parseDT(rec.report);
+  const dl=a.t+24*3600*1000;
+  let report;
+  if(r.t < dl) report={ok:true,text:"준수"};
+  else { const over=Math.round((r.t-dl)/60000); report={ok:false,text:"지연 (초과 "+pad(Math.floor(over/60))+":"+pad(over%60)+")"}; }
+  const days = rec.grade==="중대"?30:15;
+  const inv = fmtDate(Date.UTC(a.y,a.mo-1,a.d+days));
+  return {report, inv};
+}
+function showMsg(el, errs, okText){
+  el.textContent="";
+  if(errs.length){ el.className="msg err"; const b=document.createElement("b"); b.textContent="처리할 수 없습니다 — 아래 오류를 확인하세요."; el.appendChild(b); const ul=document.createElement("ul"); errs.forEach(e=>{const li=document.createElement("li");li.textContent=e;ul.appendChild(li);}); el.appendChild(ul); }
+  else { el.className="msg ok"; el.textContent=okText; }
+}
+function td(text, cls){const c=document.createElement("td");c.textContent=text;if(cls)c.className=cls;return c;}
+function renderLedger(){
+  const tb=$("ledger"); tb.textContent="";
+  if(!records.length){const tr=document.createElement("tr");const c=td("등록된 일탈이 없습니다.","empty");c.colSpan=7;tr.appendChild(c);tb.appendChild(tr);return;}
+  records.forEach(rec=>{
+    const d=deadlines(rec); const tr=document.createElement("tr");
+    [rec.no, rec.title, rec.product+" / "+rec.batch, rec.grade, rec.aware].forEach(x=>tr.appendChild(td(x)));
+    tr.appendChild(td(d.report.text, d.report.ok?"ok-t":"late")); tr.appendChild(td(d.inv));
+    tb.appendChild(tr);
+  });
+  const sel=$("e-no"), cur=sel.value; sel.textContent="";
+  const o0=document.createElement("option");o0.value="";o0.textContent="선택";sel.appendChild(o0);
+  records.forEach(r=>{const o=document.createElement("option");o.value=r.no;o.textContent=r.no;sel.appendChild(o);});
+  sel.value=cur;
+}
+function renderAudit(){
+  const tb=$("audit"); tb.textContent="";
+  if(!auditLog.length){const tr=document.createElement("tr");const c=td("수정 이력이 없습니다.","empty");c.colSpan=6;tr.appendChild(c);tb.appendChild(tr);return;}
+  auditLog.forEach(e=>{const tr=document.createElement("tr");[e.at,e.no,e.field,e.before,e.after,e.reason].forEach(x=>tr.appendChild(td(x)));tb.appendChild(tr);});
+}
+$("btn-add").addEventListener("click",()=>{
+  const v=readForm(); const {errs}=validate(v);
+  if(errs.length){showMsg($("add-msg"),errs);return;}
+  records.push(v);
+  renderLedger(); showMsg($("add-msg"),[], v.no+" 등록됨");
+});
+$("btn-clear").addEventListener("click",()=>{FIELDS.forEach(([k])=>{$("f-"+k).value="";});$("add-msg").className="msg";});
+$("btn-edit").addEventListener("click",()=>{
+  const no=$("e-no").value, field=$("e-field").value, after=$("e-value").value.trim(), reason=$("e-reason").value;
+  const errs=[];
+  const rec=records.find(r=>r.no===no);
+  if(!rec) errs.push("일탈번호: 선택 필요");
+  if(!after) errs.push("변경 후 값: 누락");
+  if(field==="grade" && after && after!=="중대" && after!=="경미") errs.push("등급: 중대 또는 경미만 입력");
+  if(!reason) errs.push("수정 사유: 누락");
+  if(rec && rec[field]===after) errs.push("변경 후 값: 변경 전 값과 같음");
+  if(errs.length){showMsg($("edit-msg"),errs);return;}
+  auditLog.push(Object.freeze({at:nowStamp(), no, field:LABEL[field], before:rec[field], after, reason}));
+  rec[field]=after;
+  renderLedger(); renderAudit(); showMsg($("edit-msg"),[], no+" "+LABEL[field]+" 수정됨 (이력 기록)");
+});
+</script></body></html>
