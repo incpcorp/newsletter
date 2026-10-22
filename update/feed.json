@@ -1,5 +1,14 @@
 [
  {
+  "no": "261023",
+  "date": "2026-10-23",
+  "category": "사례 노트",
+  "title": "서명한 시험기록과 다른 조사 결론 — 무균시험 무효화 FDA 경고장",
+  "summary": "용기가 온전했다고 서명한 기록을, 조사에서는 확인 안 됐다며 'no-test'로 돌린 무균 제조소 사례",
+  "url": "https://diforum.org/update/261023.html",
+  "ai": true
+ },
+ {
   "no": "261022-3",
   "date": "2026-10-22",
   "category": "규제 동향",
@@ -258,15 +267,6 @@
   "title": "추적되지 않는 시험 주입, 공유 계정, 파쇄함 속 기록",
   "summary": "HPLC 부적절한 권한 역할·계정 공유·기록 파쇄가 한 경고장에 묶였습니다. CDS 권한리스트부터 확인해야 합니다.",
   "url": "https://diforum.org/update/261010.html",
-  "ai": true
- },
- {
-  "no": "261009-2",
-  "date": "2026-10-09",
-  "category": "현장 Q&A",
-  "title": "감사추적은 보관만 하면 충분할까요?",
-  "summary": "감사추적(점검기록)은 저장뿐 아니라 위험 기반 검토와 증거가 중요합니다.",
-  "url": "https://diforum.org/update/261009-2.html",
   "ai": true
  }
 ]
