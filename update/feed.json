@@ -1,5 +1,14 @@
 [
  {
+  "no": "261025-4",
+  "date": "2026-10-25",
+  "category": "용어 한 줄",
+  "title": "원본 기록(Original Record) — 처음 만든 기록과 검증된 사본",
+  "summary": "원본은 처음 생긴 파일에 붙은 딱지가 아니라, 내용·의미·맥락이 검증된 채 이어지는지로 판단한다.",
+  "url": "https://diforum.org/update/261025-4.html",
+  "ai": true
+ },
+ {
   "no": "261025-3",
   "date": "2026-10-25",
   "category": "용어 한 줄",
@@ -258,15 +267,6 @@
   "title": "EU Annex 11 개정, 10월 현재 아직 최종본이 아닙니다",
   "summary": "EudraLex에는 여전히 2011년판 Annex 11이 올라 있습니다. 기다리지 말고 초안으로 차이를 먼저 볼 때입니다.",
   "url": "https://diforum.org/update/261010-5.html",
-  "ai": true
- },
- {
-  "no": "261010-4",
-  "date": "2026-10-10",
-  "category": "사례 노트",
-  "title": "FDA 의료기기 경고서, 변경 영향평가의 증거는 충분한가",
-  "summary": "공급업체 변경 후 시험·위험 수용·승인 근거가 실제 변경관리와 연결되는지 확인합니다.",
-  "url": "https://diforum.org/update/261010-4.html",
   "ai": true
  }
 ]
