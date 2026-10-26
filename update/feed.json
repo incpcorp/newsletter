@@ -1,5 +1,14 @@
 [
  {
+  "no": "261026",
+  "date": "2026-10-26",
+  "category": "사례 노트",
+  "title": "적합할 때까지 재시험 — 절차서가 허용한 OOS 무효화, FDA 경고장",
+  "summary": "재시험 적합만으로 OOS를 무효화해 출하한 제조소에 FDA가 지적한 절차서·조사·출하 전 검토의 빈틈",
+  "url": "https://diforum.org/update/261026.html",
+  "ai": true
+ },
+ {
   "no": "261025-4",
   "date": "2026-10-25",
   "category": "용어 한 줄",
@@ -258,15 +267,6 @@
   "title": "바이오시밀러 제조 변경 FDA Q&A 확정 — 비교의 근거는 과거 데이터",
   "summary": "FDA가 바이오시밀러 허가 후 제조 변경 Q&A를 확정했습니다. 과거 로트 데이터가 비교의 근거입니다.",
   "url": "https://diforum.org/update/261012.html",
-  "ai": true
- },
- {
-  "no": "261010-5",
-  "date": "2026-10-10",
-  "category": "규제 동향",
-  "title": "EU Annex 11 개정, 10월 현재 아직 최종본이 아닙니다",
-  "summary": "EudraLex에는 여전히 2011년판 Annex 11이 올라 있습니다. 기다리지 말고 초안으로 차이를 먼저 볼 때입니다.",
-  "url": "https://diforum.org/update/261010-5.html",
   "ai": true
  }
 ]
