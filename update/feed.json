@@ -1,5 +1,14 @@
 [
  {
+  "no": "261026-3",
+  "date": "2026-10-26",
+  "category": "규제 동향",
+  "title": "PMDA EV 품질자료, 시험 단계 선택 근거도 남기세요",
+  "summary": "결과값만 남기지 말고, 가장 민감한 시험 단계와 선택 이유를 연결해야 합니다.",
+  "url": "https://diforum.org/update/261026-3.html",
+  "ai": true
+ },
+ {
   "no": "261026-2",
   "date": "2026-10-26",
   "category": "규제 동향",
@@ -259,14 +268,5 @@
   "summary": "복원 시험에서는 파일의 존재뿐 아니라 기록의 완전성·정확성과 실제 사용 가능성을 확인해야 합니다.",
   "url": "https://diforum.org/update/261012-3.html",
   "ai": false
- },
- {
-  "no": "261012-2",
-  "date": "2026-10-12",
-  "category": "규제 동향",
-  "title": "개정 Annex 19 시행 — 보존 검체를 사진으로 대신할 때의 조건",
-  "summary": "사진·디지털 보존 검체가 허용됐지만, 사전 합의와 Annex 11 원칙 준수가 조건입니다",
-  "url": "https://diforum.org/update/261012-2.html",
-  "ai": true
  }
 ]
