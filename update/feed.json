@@ -1,5 +1,14 @@
 [
  {
+  "no": "261026-2",
+  "date": "2026-10-26",
+  "category": "규제 동향",
+  "title": "PIC/S 적격성평가·밸리데이션 권고문서 PI 006-4 개정, 이미 발효",
+  "summary": "PIC/S가 PI 006-3을 대체하는 PI 006-4를 발표했고 시행일 2026년 10월 1일이 지나 이미 발효 중입니다.",
+  "url": "https://diforum.org/update/261026-2.html",
+  "ai": true
+ },
+ {
   "no": "261026",
   "date": "2026-10-26",
   "category": "사례 노트",
@@ -258,15 +267,6 @@
   "title": "개정 Annex 19 시행 — 보존 검체를 사진으로 대신할 때의 조건",
   "summary": "사진·디지털 보존 검체가 허용됐지만, 사전 합의와 Annex 11 원칙 준수가 조건입니다",
   "url": "https://diforum.org/update/261012-2.html",
-  "ai": true
- },
- {
-  "no": "261012",
-  "date": "2026-10-12",
-  "category": "규제 동향",
-  "title": "바이오시밀러 제조 변경 FDA Q&A 확정 — 비교의 근거는 과거 데이터",
-  "summary": "FDA가 바이오시밀러 허가 후 제조 변경 Q&A를 확정했습니다. 과거 로트 데이터가 비교의 근거입니다.",
-  "url": "https://diforum.org/update/261012.html",
   "ai": true
  }
 ]
