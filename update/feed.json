@@ -1,5 +1,14 @@
 [
  {
+  "no": "261028-3",
+  "date": "2026-10-28",
+  "category": "용어 한 줄",
+  "title": "정본(True Copy) — '유효사본'과 섞어 쓰는 현장의 혼동",
+  "summary": "정본은 복사했다는 사실이 아니라, 원본과 같음을 확인한 사본이다.",
+  "url": "https://diforum.org/update/261028-3.html",
+  "ai": true
+ },
+ {
   "no": "261028-2",
   "date": "2026-10-28",
   "category": "규제 동향",
@@ -258,15 +267,6 @@
   "title": "0 CFU 기록, 판독 당시 배지를 다시 확인할 수 있나요?",
   "summary": "집락수와 함께 판독 당시 배지 상태·검체 식별정보·검토 근거가 연결되어야 시험결과를 신뢰할 수 있습니다.",
   "url": "https://diforum.org/update/261014.html",
-  "ai": false
- },
- {
-  "no": "261013-2",
-  "date": "2026-10-13",
-  "category": "현장 Q&A",
-  "title": "시험결과 PDF만 남겨도 될까요? 동적 원본의 보존 기준",
-  "summary": "PDF가 원본인지, 원본을 대신할 수 없는 출력물인지부터 구분해야 합니다",
-  "url": "https://diforum.org/update/261013-2.html",
   "ai": false
  }
 ]
