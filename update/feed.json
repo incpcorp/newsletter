@@ -1,5 +1,14 @@
 [
  {
+  "no": "261030",
+  "date": "2026-10-30",
+  "category": "규제 동향",
+  "title": "PIC/S PI 058-1 발효 — Annex 1 경고 기준은 추세 데이터로",
+  "summary": "10월 28일 발효된 PIC/S Annex 1 해석 권고, 환경모니터링 경고 기준과 개입 기록을 데이터 관점으로 읽습니다",
+  "url": "https://diforum.org/update/261030.html",
+  "ai": true
+ },
+ {
   "no": "261029",
   "date": "2026-10-29",
   "category": "규제 동향",
@@ -258,15 +267,6 @@
   "title": "배지충전 결과를 새 양식에 옮겨 적은 이유, 남아 있나요?",
   "summary": "FDA는 원본을 다른 양식에 옮겨 적은 기록에 '왜, 누가 승인했는지'를 보여 줄 것을 요구했습니다.",
   "url": "https://diforum.org/update/261015.html",
-  "ai": true
- },
- {
-  "no": "261014-2",
-  "date": "2026-10-14",
-  "category": "사례 노트",
-  "title": "안정성 pH OOS에 규격 확대로 대응 — FDA가 지적한 조사와 CAPA의 한계",
-  "summary": "과학적 근거 없는 규격 확대와 불충분한 원인 조사, FDA는 조사·CAPA·변경관리 체계의 독립 평가를 요구했습니다.",
-  "url": "https://diforum.org/update/261014-2.html",
   "ai": true
  }
 ]
