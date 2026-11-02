@@ -7,6 +7,22 @@
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
   <item>
+    <title>FDA QT 분석 지침, 모델은 결과 전에 정하세요</title>
+    <link>https://diforum.org/update/261102-2.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261102-2.html</guid>
+    <pubDate>Mon, 02 Nov 2026 10:30:29 +0900</pubDate>
+    <category>규제 동향</category>
+    <description>같은 심전도 자료도 모델에 따라 결론이 달라질 수 있어 선택 기준과 가정을 분석 전에 정해야 합니다.</description>
+  </item>
+  <item>
+    <title>유사하다'고 적은 기록은 식별이 아닙니다 — PET 제조소 FDA 경고장</title>
+    <link>https://diforum.org/update/261102.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261102.html</guid>
+    <pubDate>Mon, 02 Nov 2026 10:29:55 +0900</pubDate>
+    <category>사례 노트</category>
+    <description>ISO 5 구역 검출 균 90건 이상을 '이전 집락과 유사'로만 적고 식별 없이 출하한 PET 제조소</description>
+  </item>
+  <item>
     <title>EMA 이상반응 보고 초안, 수정 전 기록과 버전을 함께 남기세요</title>
     <link>https://diforum.org/update/261030-3.html</link>
     <guid isPermaLink="true">https://diforum.org/update/261030-3.html</guid>
@@ -229,22 +245,6 @@
     <pubDate>Fri, 16 Oct 2026 23:26:26 +0900</pubDate>
     <category>규제 동향</category>
     <description>10월 14일 공개된 회의 요약문은 AI의 사용 맥락과 근거 수준을 강조합니다. 새 GMP 의무와 구분해 읽습니다.</description>
-  </item>
-  <item>
-    <title>PMDA 연차보고서, 기록 조작에 앞선 일탈 누락을 보세요</title>
-    <link>https://diforum.org/update/261016-2.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261016-2.html</guid>
-    <pubDate>Fri, 16 Oct 2026 21:58:28 +0900</pubDate>
-    <category>규제 동향</category>
-    <description>10월 2일 공개된 영문판에서 짚은 문제의 연결: 임시 대응부터 기록 조작까지, 조직의 판단 과정을 점검합니다.</description>
-  </item>
-  <item>
-    <title>EM 기록의 동시성 — 국내 무균 제조소에 온 FDA 경고장</title>
-    <link>https://diforum.org/update/261016.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261016.html</guid>
-    <pubDate>Fri, 16 Oct 2026 10:52:11 +0900</pubDate>
-    <category>사례 노트</category>
-    <description>환경·작업자 모니터링 데이터의 동시 기록 미흡, 반복 지적으로 이어진 FDA 경고장</description>
   </item>
 </channel>
 </rss>
