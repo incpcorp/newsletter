@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0">
 <channel>
   <title>DI 동향 · Update for Data Integrity | DI Forum</title>
-  <link>https://diforum.org/update/</link>
-  <atom:link href="https://diforum.org/rss.xml" rel="self" type="application/rss+xml"/>
+  <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
+  <lastBuildDate>Mon, 02 Nov 2026 10:30:29 +0900</lastBuildDate>
   <item>
     <title>FDA QT 분석 지침, 모델은 결과 전에 정하세요</title>
     <link>https://diforum.org/update/261102-2.html</link>

@@ -190,14 +190,17 @@ def build_rss(public):
             continue
         items.append((pub_date(day, rel), it, url_of(rel), title, summary))
     items.sort(key=lambda x: (x[0], x[2]), reverse=True)
+    # 네이버 RSS 제출: channel link는 등록한 사이트 주소(첫 화면)로, atom 확장은 넣지 않는다(2026-11-02 형식 오류 대응).
+    # lastBuildDate는 가장 최근 글의 pubDate — 글이 늘 때만 바뀌어 커밋이 반복되지 않는다.
     out = ['<?xml version="1.0" encoding="UTF-8"?>',
-           '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">',
+           '<rss version="2.0">',
            '<channel>',
            '  <title>DI 동향 · Update for Data Integrity | DI Forum</title>',
-           f'  <link>{SITE}/update/</link>',
-           f'  <atom:link href="{SITE}/rss.xml" rel="self" type="application/rss+xml"/>',
+           f'  <link>{SITE}/</link>',
            '  <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>',
            '  <language>ko</language>']
+    if items:
+        out.append(f'  <lastBuildDate>{format_datetime(items[0][0])}</lastBuildDate>')
     for t, it, url, title, summary in items:
         out.append('  <item>')
         if title:
