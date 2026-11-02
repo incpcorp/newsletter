@@ -1,0 +1,81 @@
+# sitemap.xml·rss.xml 자동 갱신
+# - main에 푸시가 올 때마다(관리 시스템 Apps Script 커밋, 뉴스레터 발행 push 포함) 다시 만들고, 바뀌었을 때만 커밋한다.
+# - 반복 실행 방지: ① GITHUB_TOKEN으로 한 푸시는 새 워크플로를 실행하지 않는다(GitHub 기본 동작)
+#   ② sitemap.xml·rss.xml만 바뀐 푸시는 paths-ignore로 거른다 ③ 결과가 같으면 커밋하지 않는다.
+#   ([skip ci]는 쓰지 않는다 — Pages 빌드까지 건너뛸 수 있어서)
+name: SEO 파일 갱신 (sitemap·rss)
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - sitemap.xml
+      - rss.xml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: seo-files
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0   # lastmod에 파일별 마지막 커밋 시각을 쓰므로 전체 이력 필요
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 생성·검증·커밋
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          result=failed
+          for i in 1 2 3; do
+            python .github/scripts/build_seo.py
+            python .github/scripts/build_seo.py --check
+            git add sitemap.xml rss.xml
+            if git diff --cached --quiet; then
+              echo "변경 없음 — 커밋하지 않습니다."
+              result=unchanged
+              break
+            fi
+            git commit -m "sitemap·rss 자동 갱신"
+            if git push origin HEAD:main; then
+              result=pushed
+              break
+            fi
+            echo "푸시 거부(그사이 새 커밋) — 최신 main으로 다시 만듭니다 ($i/3)"
+            git fetch origin main
+            git checkout -B main origin/main
+          done
+          echo "pushed=$([ "$result" = pushed ] && echo 1 || echo 0)" >> "$GITHUB_OUTPUT"
+          if [ "$result" = failed ]; then
+            echo "::error::세 번 시도했지만 푸시하지 못했습니다."
+            exit 1
+          fi
+
+      # GITHUB_TOKEN 푸시가 Pages 빌드를 띄우지 않는 경우에 대비해 빌드를 요청한다.
+      # 수동 실행(workflow_dispatch)은 변경이 없어도 요청 → 요청 실패로 반영이 늦어졌을 때 수동 실행으로 복구.
+      - name: Pages 빌드 요청
+        if: steps.commit.outputs.pushed == '1' || github.event_name == 'workflow_dispatch'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for i in 1 2 3; do
+            if gh api -X POST "repos/${{ github.repository }}/pages/builds"; then exit 0; fi
+            echo "Pages 빌드 요청 실패 ($i/3) — 20초 뒤 다시"
+            sleep 20
+          done
+          echo "::error::Pages 빌드 요청 실패 — Actions 탭에서 이 워크플로를 수동 실행(Run workflow)하면 다시 요청합니다."
+          exit 1
