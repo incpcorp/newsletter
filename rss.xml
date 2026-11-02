@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Mon, 02 Nov 2026 10:30:29 +0900</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 15:04:10 +0900</lastBuildDate>
+  <item>
+    <title>메타데이터(Metadata) — 현장에서 헷갈리는 지점</title>
+    <link>https://diforum.org/update/261102-3.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261102-3.html</guid>
+    <pubDate>Mon, 02 Nov 2026 15:04:10 +0900</pubDate>
+    <category>용어 한 줄</category>
+    <description>메타데이터는 기초 자료(Raw Data)의 맥락을 설명하는 정보로, 값만 남기고 맥락을 잃으면 데이터 완전성이 흔들린다.</description>
+  </item>
   <item>
     <title>FDA QT 분석 지침, 모델은 결과 전에 정하세요</title>
     <link>https://diforum.org/update/261102-2.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Mon, 19 Oct 2026 09:02:56 +0900</pubDate>
     <category>사례 노트</category>
     <description>개별 시험 결과를 평균해 OOS를 무효화한 제조소에 FDA가 소급 재검토를 요구했습니다.</description>
-  </item>
-  <item>
-    <title>HMA–EMA AI 논의, 데이터보다 먼저 사용 목적을 정하세요</title>
-    <link>https://diforum.org/update/261016-3.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261016-3.html</guid>
-    <pubDate>Fri, 16 Oct 2026 23:26:26 +0900</pubDate>
-    <category>규제 동향</category>
-    <description>10월 14일 공개된 회의 요약문은 AI의 사용 맥락과 근거 수준을 강조합니다. 새 GMP 의무와 구분해 읽습니다.</description>
   </item>
 </channel>
 </rss>
