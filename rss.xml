@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Mon, 02 Nov 2026 15:04:10 +0900</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 16:20:17 +0900</lastBuildDate>
+  <item>
+    <title>밸리데이션 자료가 '없다'고 답한 제조소 — FDA 기록 요청 경고장</title>
+    <link>https://diforum.org/update/261103.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261103.html</guid>
+    <pubDate>Tue, 03 Nov 2026 16:20:17 +0900</pubDate>
+    <category>사례 노트</category>
+    <description>실사 없이 제출 기록만으로 판단한 FDA 경고장. 제출하지 못한 밸리데이션·안정성 기록은 '하지 않은 것'으로 읽힙니다.</description>
+  </item>
   <item>
     <title>메타데이터(Metadata) — 현장에서 헷갈리는 지점</title>
     <link>https://diforum.org/update/261102-3.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Mon, 19 Oct 2026 09:08:21 +0900</pubDate>
     <category>규제 동향</category>
     <description>FY2025 실사에서 시험·문서·제조 기록 관련 지적 151건이 확인됐습니다.</description>
-  </item>
-  <item>
-    <title>미생물 OOS를 평균값으로 적합 처리 — FDA 경고장</title>
-    <link>https://diforum.org/update/261019.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261019.html</guid>
-    <pubDate>Mon, 19 Oct 2026 09:02:56 +0900</pubDate>
-    <category>사례 노트</category>
-    <description>개별 시험 결과를 평균해 OOS를 무효화한 제조소에 FDA가 소급 재검토를 요구했습니다.</description>
   </item>
 </channel>
 </rss>
