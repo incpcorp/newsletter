@@ -1,5 +1,14 @@
 [
  {
+  "no": "261103",
+  "date": "2026-11-03",
+  "category": "사례 노트",
+  "title": "밸리데이션 자료가 '없다'고 답한 제조소 — FDA 기록 요청 경고장",
+  "summary": "실사 없이 제출 기록만으로 판단한 FDA 경고장. 제출하지 못한 밸리데이션·안정성 기록은 '하지 않은 것'으로 읽힙니다.",
+  "url": "https://diforum.org/update/261103.html",
+  "ai": true
+ },
+ {
   "no": "261102-3",
   "date": "2026-11-02",
   "category": "용어 한 줄",
@@ -258,15 +267,6 @@
   "title": "PMDA 실사 통계, 기록 문제는 체계로 읽어야 합니다",
   "summary": "FY2025 실사에서 시험·문서·제조 기록 관련 지적 151건이 확인됐습니다.",
   "url": "https://diforum.org/update/261019-2.html",
-  "ai": true
- },
- {
-  "no": "261019",
-  "date": "2026-10-19",
-  "category": "사례 노트",
-  "title": "미생물 OOS를 평균값으로 적합 처리 — FDA 경고장",
-  "summary": "개별 시험 결과를 평균해 OOS를 무효화한 제조소에 FDA가 소급 재검토를 요구했습니다.",
-  "url": "https://diforum.org/update/261019.html",
   "ai": true
  }
 ]
