@@ -1,5 +1,14 @@
 [
  {
+  "no": "261103-2",
+  "date": "2026-11-03",
+  "category": "규제 동향",
+  "title": "FDA 역가 보증 지침, 출하시험 하나로 끝나지 않습니다",
+  "summary": "세포·유전자치료제의 역가는 원료·공정·공정 중 시험·출하시험을 전주기로 연결해 보증해야 합니다.",
+  "url": "https://diforum.org/update/261103-2.html",
+  "ai": true
+ },
+ {
   "no": "261103",
   "date": "2026-11-03",
   "category": "사례 노트",
@@ -258,15 +267,6 @@
   "title": "기초 자료에는 있고 최종 보고서엔 없는 관찰 — FDA GLP 경고장",
   "summary": "동물 이상 관찰·투여 문제를 최종 보고서에서 빠뜨린 비임상 시험기관에 FDA가 QAU 책임을 물었습니다.",
   "url": "https://diforum.org/update/261019-3.html",
-  "ai": true
- },
- {
-  "no": "261019-2",
-  "date": "2026-10-19",
-  "category": "규제 동향",
-  "title": "PMDA 실사 통계, 기록 문제는 체계로 읽어야 합니다",
-  "summary": "FY2025 실사에서 시험·문서·제조 기록 관련 지적 151건이 확인됐습니다.",
-  "url": "https://diforum.org/update/261019-2.html",
   "ai": true
  }
 ]
