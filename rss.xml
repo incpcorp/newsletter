@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Tue, 03 Nov 2026 16:20:51 +0900</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 16:21:20 +0900</lastBuildDate>
+  <item>
+    <title>원본 기록(Original Record) — 현장에서 헷갈리는 지점</title>
+    <link>https://diforum.org/update/261103-3.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261103-3.html</guid>
+    <pubDate>Tue, 03 Nov 2026 16:21:20 +0900</pubDate>
+    <category>용어 한 줄</category>
+    <description>원본 기록은 처음 생성된 형태 그대로의 기록 또는 검증된 사본이며, 옮길 때 값만이 아니라 맥락 정보도 남아야 한다.</description>
+  </item>
   <item>
     <title>FDA 역가 보증 지침, 출하시험 하나로 끝나지 않습니다</title>
     <link>https://diforum.org/update/261103-2.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Tue, 20 Oct 2026 10:42:12 +0900</pubDate>
     <category>규제 동향</category>
     <description>식약처 별표 11 개정안 행정예고(의견 11월 5일까지). 원문인 PIC/S Annex 13의 기준 자료집·보존 요건을 읽습니다.</description>
-  </item>
-  <item>
-    <title>기초 자료에는 있고 최종 보고서엔 없는 관찰 — FDA GLP 경고장</title>
-    <link>https://diforum.org/update/261019-3.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261019-3.html</guid>
-    <pubDate>Mon, 19 Oct 2026 09:34:58 +0900</pubDate>
-    <category>사례 노트</category>
-    <description>동물 이상 관찰·투여 문제를 최종 보고서에서 빠뜨린 비임상 시험기관에 FDA가 QAU 책임을 물었습니다.</description>
   </item>
 </channel>
 </rss>
