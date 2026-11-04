@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Thu, 05 Nov 2026 06:36:07 +0900</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 06:36:39 +0900</lastBuildDate>
+  <item>
+    <title>데이터 관리체계(Data Governance) — 현장에서 헷갈리는 지점</title>
+    <link>https://diforum.org/update/261105-2.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261105-2.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:36:39 +0900</pubDate>
+    <category>용어 한 줄</category>
+    <description>데이터 관리체계는 지침서 묶음이 아니라, 데이터가 폐기될 때까지 책임과 점검이 돌아가는 전체 틀이다.</description>
+  </item>
   <item>
     <title>PMDA AI 원칙, 입력자료와 판단 근거를 함께 남기세요</title>
     <link>https://diforum.org/update/261105.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Tue, 20 Oct 2026 12:52:12 +0900</pubDate>
     <category>현장 Q&amp;A</category>
     <description>최초 검증 이후의 변경·일탈·운영 이력을 함께 검토해야 현재 시스템의 적합성을 판단할 수 있습니다.</description>
-  </item>
-  <item>
-    <title>EMA 데이터 품질 초안, 수정 전 기록과 연결을 남기세요</title>
-    <link>https://diforum.org/update/261020-2.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261020-2.html</guid>
-    <pubDate>Tue, 20 Oct 2026 10:46:33 +0900</pubDate>
-    <category>규제 동향</category>
-    <description>10월 19일 의견조회가 시작된 ADR 데이터 품질 초안은 사례 버전과 전달 이력의 연결을 강조합니다.</description>
   </item>
 </channel>
 </rss>
