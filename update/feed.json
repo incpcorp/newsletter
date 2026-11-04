@@ -1,5 +1,14 @@
 [
  {
+  "no": "261105-2",
+  "date": "2026-11-05",
+  "category": "용어 한 줄",
+  "title": "데이터 관리체계(Data Governance) — 현장에서 헷갈리는 지점",
+  "summary": "데이터 관리체계는 지침서 묶음이 아니라, 데이터가 폐기될 때까지 책임과 점검이 돌아가는 전체 틀이다.",
+  "url": "https://diforum.org/update/261105-2.html",
+  "ai": true
+ },
+ {
   "no": "261105",
   "date": "2026-11-05",
   "category": "규제 동향",
@@ -259,14 +268,5 @@
   "summary": "최초 검증 이후의 변경·일탈·운영 이력을 함께 검토해야 현재 시스템의 적합성을 판단할 수 있습니다.",
   "url": "https://diforum.org/update/261020-3.html",
   "ai": false
- },
- {
-  "no": "261020-2",
-  "date": "2026-10-20",
-  "category": "규제 동향",
-  "title": "EMA 데이터 품질 초안, 수정 전 기록과 연결을 남기세요",
-  "summary": "10월 19일 의견조회가 시작된 ADR 데이터 품질 초안은 사례 버전과 전달 이력의 연결을 강조합니다.",
-  "url": "https://diforum.org/update/261020-2.html",
-  "ai": true
  }
 ]
