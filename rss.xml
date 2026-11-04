@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Wed, 04 Nov 2026 23:18:13 +0900</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 06:36:07 +0900</lastBuildDate>
+  <item>
+    <title>PMDA AI 원칙, 입력자료와 판단 근거를 함께 남기세요</title>
+    <link>https://diforum.org/update/261105.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261105.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:36:07 +0900</pubDate>
+    <category>규제 동향</category>
+    <description>규제업무에 AI를 쓸 때 데이터 출처·처리·변경 이력과 사람의 판단을 연결해야 합니다.</description>
+  </item>
   <item>
     <title>EU GMP 4장 개정 초안 — 어떤 데이터가 기초 자료인지 정해 두세요</title>
     <link>https://diforum.org/update/261104.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Tue, 20 Oct 2026 10:46:33 +0900</pubDate>
     <category>규제 동향</category>
     <description>10월 19일 의견조회가 시작된 ADR 데이터 품질 초안은 사례 버전과 전달 이력의 연결을 강조합니다.</description>
-  </item>
-  <item>
-    <title>임상시험용의약품 GMP 개정 예고 — 기준 자료집은 버전으로 남습니다</title>
-    <link>https://diforum.org/update/261020.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261020.html</guid>
-    <pubDate>Tue, 20 Oct 2026 10:42:12 +0900</pubDate>
-    <category>규제 동향</category>
-    <description>식약처 별표 11 개정안 행정예고(의견 11월 5일까지). 원문인 PIC/S Annex 13의 기준 자료집·보존 요건을 읽습니다.</description>
   </item>
 </channel>
 </rss>
