@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Fri, 06 Nov 2026 07:06:28 +0900</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 07:06:59 +0900</lastBuildDate>
+  <item>
+    <title>식약처 매개변수기반 출하 질의응답집, 심사 대응 전 먼저 읽으세요</title>
+    <link>https://diforum.org/update/261106-2.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261106-2.html</guid>
+    <pubDate>Fri, 06 Nov 2026 07:06:59 +0900</pubDate>
+    <category>규제 동향</category>
+    <description>매개변수기반 출하 품질심사 질의응답집이 안내서로 제정되었으니, 첨부 PDF에서 우리 심사 준비와 맞는지 확인하세요.</description>
+  </item>
   <item>
     <title>표시사항·배합표·성적서의 색소가 제각각 — 한 제조소 FDA 경고장</title>
     <link>https://diforum.org/update/261106.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Wed, 21 Oct 2026 16:13:52 +0900</pubDate>
     <category>규제 동향</category>
     <description>표준 형식으로 바꿀 때 가장 쉽게 빠지는 것은 계획 밖 결과·단위·참고치입니다. 형식보다 빠진 맥락을 보세요.</description>
-  </item>
-  <item>
-    <title>노출하지 않은 배지로 만든 0 CFU 추세 — FDA 경고장</title>
-    <link>https://diforum.org/update/261021.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261021.html</guid>
-    <pubDate>Wed, 21 Oct 2026 09:16:42 +0900</pubDate>
-    <category>사례 노트</category>
-    <description>0 CFU 보고 뒤에 노출하지 않은 배지가 있었습니다. 조작된 데이터로는 추세도, 영향평가도 설 수 없습니다.</description>
   </item>
 </channel>
 </rss>
