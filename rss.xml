@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Fri, 06 Nov 2026 07:06:59 +0900</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 07:07:37 +0900</lastBuildDate>
+  <item>
+    <title>데이터 전주기(Data Lifecycle) — 현장에서 헷갈리는 지점</title>
+    <link>https://diforum.org/update/261106-3.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261106-3.html</guid>
+    <pubDate>Fri, 06 Nov 2026 07:07:37 +0900</pubDate>
+    <category>용어 한 줄</category>
+    <description>데이터 전주기는 보관 단계만이 아니라 생성부터 폐기까지 전 과정을 관리 대상으로 본다는 뜻입니다.</description>
+  </item>
   <item>
     <title>식약처 매개변수기반 출하 질의응답집, 심사 대응 전 먼저 읽으세요</title>
     <link>https://diforum.org/update/261106-2.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Wed, 21 Oct 2026 16:27:58 +0900</pubDate>
     <category>규제 동향</category>
     <description>승인자 이름이 보이는 것과, 서명이 그때 승인한 문서 버전에 계속 묶여 있는 것은 다른 이야기입니다.</description>
-  </item>
-  <item>
-    <title>FDA 임상검사 자료 지침 개정 — 일정 밖 검사와 기관 검사실 결과도 빠짐없이</title>
-    <link>https://diforum.org/update/261021-2.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261021-2.html</guid>
-    <pubDate>Wed, 21 Oct 2026 16:13:52 +0900</pubDate>
-    <category>규제 동향</category>
-    <description>표준 형식으로 바꿀 때 가장 쉽게 빠지는 것은 계획 밖 결과·단위·참고치입니다. 형식보다 빠진 맥락을 보세요.</description>
   </item>
 </channel>
 </rss>
