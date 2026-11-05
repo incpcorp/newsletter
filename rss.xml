@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Thu, 05 Nov 2026 06:36:39 +0900</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 07:06:28 +0900</lastBuildDate>
+  <item>
+    <title>표시사항·배합표·성적서의 색소가 제각각 — 한 제조소 FDA 경고장</title>
+    <link>https://diforum.org/update/261106.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261106.html</guid>
+    <pubDate>Fri, 06 Nov 2026 07:06:28 +0900</pubDate>
+    <category>사례 노트</category>
+    <description>한 성분을 세 기록이 다르게 적었고, FDA의 두 차례 질문에는 답이 없었습니다. 기록끼리 맞는지가 먼저입니다.</description>
+  </item>
   <item>
     <title>데이터 관리체계(Data Governance) — 현장에서 헷갈리는 지점</title>
     <link>https://diforum.org/update/261105-2.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Wed, 21 Oct 2026 09:16:42 +0900</pubDate>
     <category>사례 노트</category>
     <description>0 CFU 보고 뒤에 노출하지 않은 배지가 있었습니다. 조작된 데이터로는 추세도, 영향평가도 설 수 없습니다.</description>
-  </item>
-  <item>
-    <title>CSV 완료 보고서가 있으면, 지금도 밸리데이션된 상태일까요?</title>
-    <link>https://diforum.org/update/261020-3.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261020-3.html</guid>
-    <pubDate>Tue, 20 Oct 2026 12:52:12 +0900</pubDate>
-    <category>현장 Q&amp;A</category>
-    <description>최초 검증 이후의 변경·일탈·운영 이력을 함께 검토해야 현재 시스템의 적합성을 판단할 수 있습니다.</description>
   </item>
 </channel>
 </rss>
