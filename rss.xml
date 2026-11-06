@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Sat, 07 Nov 2026 02:48:47 +0900</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 02:49:19 +0900</lastBuildDate>
+  <item>
+    <title>정적·동적 기록(Static/Dynamic Record) — 자료가 아니라 기록</title>
+    <link>https://diforum.org/update/261107-3.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261107-3.html</guid>
+    <pubDate>Sat, 07 Nov 2026 02:49:19 +0900</pubDate>
+    <category>용어 한 줄</category>
+    <description>정적 기록은 고정된 형태로 남는 기록, 동적 기록은 다시 처리·조회할 수 있는 기록이다. 옮길 때 이 성질이 남아야 한다.</description>
+  </item>
   <item>
     <title>영국 비임상 안내서, 체계 밖 데이터는 기초 자료부터 점검하세요</title>
     <link>https://diforum.org/update/261107-2.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Thu, 22 Oct 2026 22:40:39 +0900</pubDate>
     <category>규제 동향</category>
     <description>Annex 11 #6은 수기 입력한 중요 데이터의 정확성 추가 확인을 요구합니다. 증거는 서명이 아니라 기초 자료와의 대조입니다.</description>
-  </item>
-  <item>
-    <title>WHO 품질위험관리 지침 초안 — 점수표의 주관성을 기록으로 다루세요</title>
-    <link>https://diforum.org/update/261022-2.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261022-2.html</guid>
-    <pubDate>Thu, 22 Oct 2026 09:01:45 +0900</pubDate>
-    <category>규제 동향</category>
-    <description>WHO가 ICH Q9(R1) 개념을 담은 QRM 지침 초안을 11월 15일까지 의견조회. 핵심은 형식성·주관성·결정 기준.</description>
   </item>
 </channel>
 </rss>
