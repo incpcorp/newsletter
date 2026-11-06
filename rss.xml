@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Fri, 06 Nov 2026 07:07:37 +0900</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 02:48:00 +0900</lastBuildDate>
+  <item>
+    <title>시계가 틀리면 점검기록의 '언제'도 틀립니다 — PIC/S PI 041-1 #9.5</title>
+    <link>https://diforum.org/update/261107.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261107.html</guid>
+    <pubDate>Sat, 07 Nov 2026 02:48:00 +0900</pubDate>
+    <category>규제 동향</category>
+    <description>PI 041-1 #9.5는 시스템 시계의 동기화와 접근 제한을 함께 요구합니다. 동시성의 전제는 맞는 시계입니다.</description>
+  </item>
   <item>
     <title>데이터 전주기(Data Lifecycle) — 현장에서 헷갈리는 지점</title>
     <link>https://diforum.org/update/261106-3.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Thu, 22 Oct 2026 09:00:45 +0900</pubDate>
     <category>규제 동향</category>
     <description>약과 함께 제공하는 앱의 화면·알림은 단순 기능이 아니라 검토할 표시자료가 될 수 있습니다.</description>
-  </item>
-  <item>
-    <title>EDMS 승인 서명, 어느 버전에 한 서명인지 보이나요? 확인이 가능한가요?</title>
-    <link>https://diforum.org/update/261021-3.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261021-3.html</guid>
-    <pubDate>Wed, 21 Oct 2026 16:27:58 +0900</pubDate>
-    <category>규제 동향</category>
-    <description>승인자 이름이 보이는 것과, 서명이 그때 승인한 문서 버전에 계속 묶여 있는 것은 다른 이야기입니다.</description>
   </item>
 </channel>
 </rss>
