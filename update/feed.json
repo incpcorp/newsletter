@@ -1,5 +1,14 @@
 [
  {
+  "no": "261108-3",
+  "date": "2026-11-08",
+  "category": "용어 한 줄",
+  "title": "보존(Archiving) — 백업이 있다고 보존이 되는 것은 아니다",
+  "summary": "보존은 보관 기간 내내 기록을 읽을 수 있는 상태로 두는 일이며, 장애에 대비한 복구용 사본인 백업과 다릅니다.",
+  "url": "https://diforum.org/update/261108-3.html",
+  "ai": true
+ },
+ {
   "no": "261108-2",
   "date": "2026-11-08",
   "category": "규제 동향",
@@ -258,15 +267,6 @@
   "title": "ISPE 2026 연례 회의, 인공지능으로 밸리데이션 문서 부담 줄이는 방안 논의",
   "summary": "ISPE 연례 회의에서 인공지능(AI)과 FDA의 컴퓨터 소프트웨어 보증(CSA)을 결합해 검증 문서는 줄이고 판단은 지키는 방안을 다룬다.",
   "url": "https://diforum.org/update/261025-2.html",
-  "ai": true
- },
- {
-  "no": "261025",
-  "date": "2026-10-25",
-  "category": "용어 한 줄",
-  "title": "점검기록(Audit Trail) — 로그와 섞어 쓰기 쉬운 지점",
-  "summary": "점검기록은 기초 자료의 생성·변경·삭제 이력을 남기는 기록이며, 접속 로그와는 다르다.",
-  "url": "https://diforum.org/update/261025.html",
   "ai": true
  }
 ]
