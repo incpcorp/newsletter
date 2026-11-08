@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Sun, 08 Nov 2026 13:37:37 +0900</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 21:28:55 +0900</lastBuildDate>
+  <item>
+    <title>보존(Archiving) — 백업이 있다고 보존이 되는 것은 아니다</title>
+    <link>https://diforum.org/update/261108-3.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261108-3.html</guid>
+    <pubDate>Sun, 08 Nov 2026 21:28:55 +0900</pubDate>
+    <category>용어 한 줄</category>
+    <description>보존은 보관 기간 내내 기록을 읽을 수 있는 상태로 두는 일이며, 장애에 대비한 복구용 사본인 백업과 다릅니다.</description>
+  </item>
   <item>
     <title>영국 임상시험 점검 안내 갱신, 위탁처 관리부터 확인하세요</title>
     <link>https://diforum.org/update/261108-2.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Sun, 25 Oct 2026 16:14:57 +0900</pubDate>
     <category>규제 동향</category>
     <description>ISPE 연례 회의에서 인공지능(AI)과 FDA의 컴퓨터 소프트웨어 보증(CSA)을 결합해 검증 문서는 줄이고 판단은 지키는 방안을 다룬다.</description>
-  </item>
-  <item>
-    <title>점검기록(Audit Trail) — 로그와 섞어 쓰기 쉬운 지점</title>
-    <link>https://diforum.org/update/261025.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261025.html</guid>
-    <pubDate>Sun, 25 Oct 2026 00:48:48 +0900</pubDate>
-    <category>용어 한 줄</category>
-    <description>점검기록은 기초 자료의 생성·변경·삭제 이력을 남기는 기록이며, 접속 로그와는 다르다.</description>
   </item>
 </channel>
 </rss>
