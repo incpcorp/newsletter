@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Sun, 08 Nov 2026 13:20:21 +0900</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 13:37:37 +0900</lastBuildDate>
+  <item>
+    <title>영국 임상시험 점검 안내 갱신, 위탁처 관리부터 확인하세요</title>
+    <link>https://diforum.org/update/261108-2.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261108-2.html</guid>
+    <pubDate>Sun, 08 Nov 2026 13:37:37 +0900</pubDate>
+    <category>규제 동향</category>
+    <description>영국 규제청이 임상시험관리기준(GCP) 점검 안내를 갱신했습니다. 임상시험수탁기관(CRO)과 시스템 공급사의 위탁 관리를 확인하세요.</description>
+  </item>
   <item>
     <title>하이브리드 시스템(Hybrid System) — 종이와 전자가 섞인 기록의 연결</title>
     <link>https://diforum.org/update/261108.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Sun, 25 Oct 2026 00:48:48 +0900</pubDate>
     <category>용어 한 줄</category>
     <description>점검기록은 기초 자료의 생성·변경·삭제 이력을 남기는 기록이며, 접속 로그와는 다르다.</description>
-  </item>
-  <item>
-    <title>서명한 시험기록과 다른 조사 결론 — 무균시험 무효화 FDA 경고장</title>
-    <link>https://diforum.org/update/261023.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261023.html</guid>
-    <pubDate>Fri, 23 Oct 2026 08:24:22 +0900</pubDate>
-    <category>사례 노트</category>
-    <description>용기가 온전했다고 서명한 기록을, 조사에서는 확인 안 됐다며 'no-test'로 돌린 무균 제조소 사례</description>
   </item>
 </channel>
 </rss>
