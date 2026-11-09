@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Tue, 10 Nov 2026 00:37:28 +0900</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 00:41:38 +0900</lastBuildDate>
+  <item>
+    <title>FDA HBV 지침, 검사 변경일과 이전 채혈 이력을 연결하세요</title>
+    <link>https://diforum.org/update/261110-2.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261110-2.html</guid>
+    <pubDate>Tue, 10 Nov 2026 00:41:38 +0900</pubDate>
+    <category>규제 동향</category>
+    <description>HBV 검사 변경은 절차서·표시·시행일과 이전 채혈 이력까지 함께 관리해야 합니다.</description>
+  </item>
   <item>
     <title>공유 계정은 데이터 완전성 위반 — Annex 11 개정 초안 #11</title>
     <link>https://diforum.org/update/261110.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Sun, 25 Oct 2026 22:48:27 +0900</pubDate>
     <category>용어 한 줄</category>
     <description>원본은 처음 생긴 파일에 붙은 딱지가 아니라, 내용·의미·맥락이 검증된 채 이어지는지로 판단한다.</description>
-  </item>
-  <item>
-    <title>기초 자료(Raw Data) — 현장에서 헷갈리는 지점</title>
-    <link>https://diforum.org/update/261025-3.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261025-3.html</guid>
-    <pubDate>Sun, 25 Oct 2026 22:10:47 +0900</pubDate>
-    <category>용어 한 줄</category>
-    <description>기초 자료는 결과표가 아니라, 그 결과가 나온 과정을 다시 확인할 수 있게 하는 최초 기록이다.</description>
   </item>
 </channel>
 </rss>
