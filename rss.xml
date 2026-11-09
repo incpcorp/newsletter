@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Sun, 08 Nov 2026 21:28:55 +0900</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 00:37:28 +0900</lastBuildDate>
+  <item>
+    <title>공유 계정은 데이터 완전성 위반 — Annex 11 개정 초안 #11</title>
+    <link>https://diforum.org/update/261110.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261110.html</guid>
+    <pubDate>Tue, 10 Nov 2026 00:37:28 +0900</pubDate>
+    <category>규제 동향</category>
+    <description>Annex 11 개정 초안 11장은 1인 1계정·최소 권한·정기 권한 검토를 요구합니다. 귀속성은 계정에서 시작됩니다.</description>
+  </item>
   <item>
     <title>보존(Archiving) — 백업이 있다고 보존이 되는 것은 아니다</title>
     <link>https://diforum.org/update/261108-3.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Sun, 25 Oct 2026 22:10:47 +0900</pubDate>
     <category>용어 한 줄</category>
     <description>기초 자료는 결과표가 아니라, 그 결과가 나온 과정을 다시 확인할 수 있게 하는 최초 기록이다.</description>
-  </item>
-  <item>
-    <title>ISPE 2026 연례 회의, 인공지능으로 밸리데이션 문서 부담 줄이는 방안 논의</title>
-    <link>https://diforum.org/update/261025-2.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261025-2.html</guid>
-    <pubDate>Sun, 25 Oct 2026 16:14:57 +0900</pubDate>
-    <category>규제 동향</category>
-    <description>ISPE 연례 회의에서 인공지능(AI)과 FDA의 컴퓨터 소프트웨어 보증(CSA)을 결합해 검증 문서는 줄이고 판단은 지키는 방안을 다룬다.</description>
   </item>
 </channel>
 </rss>
