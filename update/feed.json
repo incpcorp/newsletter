@@ -1,5 +1,14 @@
 [
  {
+  "no": "261110-3",
+  "date": "2026-11-10",
+  "category": "용어 한 줄",
+  "title": "백업(Backup) — 보존과 헷갈리고 복원은 빠뜨리는 지점",
+  "summary": "백업은 복구용 사본이며 보존과 다르다. 복사 성공 로그보다 복원해 읽히는지가 데이터 완전성을 가른다.",
+  "url": "https://diforum.org/update/261110-3.html",
+  "ai": true
+ },
+ {
   "no": "261110-2",
   "date": "2026-11-10",
   "category": "규제 동향",
@@ -258,15 +267,6 @@
   "title": "적합할 때까지 재시험 — 절차서가 허용한 OOS 무효화, FDA 경고장",
   "summary": "재시험 적합만으로 OOS를 무효화해 출하한 제조소에 FDA가 지적한 절차서·조사·출하 전 검토의 빈틈",
   "url": "https://diforum.org/update/261026.html",
-  "ai": true
- },
- {
-  "no": "261025-4",
-  "date": "2026-10-25",
-  "category": "용어 한 줄",
-  "title": "원본 기록(Original Record) — 처음 만든 기록과 검증된 사본",
-  "summary": "원본은 처음 생긴 파일에 붙은 딱지가 아니라, 내용·의미·맥락이 검증된 채 이어지는지로 판단한다.",
-  "url": "https://diforum.org/update/261025-4.html",
   "ai": true
  }
 ]
