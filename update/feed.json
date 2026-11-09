@@ -1,5 +1,14 @@
 [
  {
+  "no": "261110-2",
+  "date": "2026-11-10",
+  "category": "규제 동향",
+  "title": "FDA HBV 지침, 검사 변경일과 이전 채혈 이력을 연결하세요",
+  "summary": "HBV 검사 변경은 절차서·표시·시행일과 이전 채혈 이력까지 함께 관리해야 합니다.",
+  "url": "https://diforum.org/update/261110-2.html",
+  "ai": true
+ },
+ {
   "no": "261110",
   "date": "2026-11-10",
   "category": "규제 동향",
@@ -258,15 +267,6 @@
   "title": "원본 기록(Original Record) — 처음 만든 기록과 검증된 사본",
   "summary": "원본은 처음 생긴 파일에 붙은 딱지가 아니라, 내용·의미·맥락이 검증된 채 이어지는지로 판단한다.",
   "url": "https://diforum.org/update/261025-4.html",
-  "ai": true
- },
- {
-  "no": "261025-3",
-  "date": "2026-10-25",
-  "category": "용어 한 줄",
-  "title": "기초 자료(Raw Data) — 현장에서 헷갈리는 지점",
-  "summary": "기초 자료는 결과표가 아니라, 그 결과가 나온 과정을 다시 확인할 수 있게 하는 최초 기록이다.",
-  "url": "https://diforum.org/update/261025-3.html",
   "ai": true
  }
 ]
