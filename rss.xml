@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Tue, 10 Nov 2026 00:41:38 +0900</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 00:42:25 +0900</lastBuildDate>
+  <item>
+    <title>백업(Backup) — 보존과 헷갈리고 복원은 빠뜨리는 지점</title>
+    <link>https://diforum.org/update/261110-3.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261110-3.html</guid>
+    <pubDate>Tue, 10 Nov 2026 00:42:25 +0900</pubDate>
+    <category>용어 한 줄</category>
+    <description>백업은 복구용 사본이며 보존과 다르다. 복사 성공 로그보다 복원해 읽히는지가 데이터 완전성을 가른다.</description>
+  </item>
   <item>
     <title>FDA HBV 지침, 검사 변경일과 이전 채혈 이력을 연결하세요</title>
     <link>https://diforum.org/update/261110-2.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Mon, 26 Oct 2026 21:03:26 +0900</pubDate>
     <category>사례 노트</category>
     <description>재시험 적합만으로 OOS를 무효화해 출하한 제조소에 FDA가 지적한 절차서·조사·출하 전 검토의 빈틈</description>
-  </item>
-  <item>
-    <title>원본 기록(Original Record) — 처음 만든 기록과 검증된 사본</title>
-    <link>https://diforum.org/update/261025-4.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261025-4.html</guid>
-    <pubDate>Sun, 25 Oct 2026 22:48:27 +0900</pubDate>
-    <category>용어 한 줄</category>
-    <description>원본은 처음 생긴 파일에 붙은 딱지가 아니라, 내용·의미·맥락이 검증된 채 이어지는지로 판단한다.</description>
   </item>
 </channel>
 </rss>
