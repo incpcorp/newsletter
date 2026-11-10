@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Tue, 10 Nov 2026 00:42:25 +0900</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 09:49:35 +0900</lastBuildDate>
+  <item>
+    <title>시스템 장애는 고치고 끝이 아닙니다 — ICH Q7 #5.46 인시던트</title>
+    <link>https://diforum.org/update/261110-4.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261110-4.html</guid>
+    <pubDate>Tue, 10 Nov 2026 09:49:35 +0900</pubDate>
+    <category>규제 동향</category>
+    <description>컴퓨터화 시스템 인시던트는 기록하고 조사해야 합니다. 원료의약품 GMP 기준 문서 ICH Q7 #5.4를 다시 읽습니다.</description>
+  </item>
   <item>
     <title>백업(Backup) — 보존과 헷갈리고 복원은 빠뜨리는 지점</title>
     <link>https://diforum.org/update/261110-3.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Mon, 26 Oct 2026 21:04:16 +0900</pubDate>
     <category>규제 동향</category>
     <description>PIC/S가 PI 006-3을 대체하는 PI 006-4를 발표했고 시행일 2026년 10월 1일이 지나 이미 발효 중입니다.</description>
-  </item>
-  <item>
-    <title>적합할 때까지 재시험 — 절차서가 허용한 OOS 무효화, FDA 경고장</title>
-    <link>https://diforum.org/update/261026.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261026.html</guid>
-    <pubDate>Mon, 26 Oct 2026 21:03:26 +0900</pubDate>
-    <category>사례 노트</category>
-    <description>재시험 적합만으로 OOS를 무효화해 출하한 제조소에 FDA가 지적한 절차서·조사·출하 전 검토의 빈틈</description>
   </item>
 </channel>
 </rss>
