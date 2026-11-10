@@ -173,6 +173,7 @@ figure.shot figcaption{font-size:13px;color:var(--grey);margin-top:6px}
 <div class="el"><b>검토 분리</b>작성과 검토를 다른 역할·다른 AI가 맡는다<br><i>= 자기 글 자기 검토 금지</i></div>
 <div class="el"><b>기록</b>종료 코드·실행 기록·변경 이력<br><i>= "했다"가 아니라 "남았다"</i></div>
 </div>
+<p class="punch">하네스는 에이전트의 한 종류가 아닙니다. 이 글에서 말하는 AI 에이전트는 <b>모델</b>과, 그 모델을 실행하고 통제하는 <b>하네스</b>로 이루어진다고 볼 수 있습니다.</p>
 <p><b>하네스 엔지니어링</b>(harness engineering)은 모델은 그대로 두고, 그 주변 체계를 설계해 결과의 편차와 누락을 줄이는 일입니다. 직원을 바꾸지 않고 업무 매뉴얼, 점검표, 결재선을 갖추는 것과 같습니다. 여러 회사의 AI에 같은 결과물을 따로 검토시키는 <b>교차 검토</b>도 그 일부입니다. 다만 모델끼리 의견이 같다고 맞다는 증거는 아닙니다. 판정은 사람이 기초 자료와 시험 기록으로 합니다.</p>
 <div class="note">→ <b>GMP 관점의 한 문장:</b> 하네스도 관리 대상 시스템입니다. 규칙·스킬·훅이 바뀌면 결과가 바뀌므로, 버전과 변경 이력을 남깁니다.</div>
 
@@ -215,7 +216,7 @@ figure.shot figcaption{font-size:13px;color:var(--grey);margin-top:6px}
 <h3 class="sub">From chatbot to agent</h3>
 <p>An agent does not just answer: it breaks a goal into steps, reads files, runs tools and reports back. Two points matter for GMP. The scope of its connections is its access right. And an agent's own report that "all tests passed" is not evidence; only a record that identifies the target version, the test procedure or script, and the expected and actual results can be reviewed and accepted by a person.</p>
 <h3 class="sub">Harness and harness engineering</h3>
-<p>A harness is the working system around a model: rules, skills, hooks, permissions, separated review and records. Harness engineering keeps the model as it is and designs that system to reduce variation and omissions. Agreement between models in a cross review is not proof; people decide on source data and test records. The harness itself is a managed system: when it changes, results change.</p>
+<p>A harness is not a kind of agent: the AI agents discussed here can be understood as a model plus a harness that runs and controls it. The harness is the working system around the model: rules, skills, hooks, permissions, separated review and records. Harness engineering keeps the model as it is and designs that system to reduce variation and omissions. Agreement between models in a cross review is not proof; people decide on source data and test records. The harness itself is a managed system: when it changes, results change.</p>
 <h3 class="sub">How i&amp;CP works</h3>
 <p>i&amp;CP is a consultancy for data integrity and computerized system validation in pharmaceutical and biotech GMP. We work with named AI colleagues grouped into five teams; some roles are in operation, others are at first-version, pilot or preparation stage. Outputs are set to go through review by two different AI systems, people press the final button for publishing, sending and contracts, and work records are kept. Our 3D learning space, the Onsaemiro Campus, gathers DI topics building by building, with client project spaces being prepared for authorized users only: <a href="https://campus.incpcorp.com/">campus.incpcorp.com</a>.</p>
 <div class="q" style="margin-top:16px"><p>Pick one AI tool you use today. Can you state in one sentence what it is connected to and what it is allowed to do?</p></div>
