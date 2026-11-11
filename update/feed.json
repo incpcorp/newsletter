@@ -1,5 +1,14 @@
 [
  {
+  "no": "261111",
+  "date": "2026-11-11",
+  "category": "용어 한 줄",
+  "title": "전자서명(Electronic Signature) — 서명 이미지와 헷갈리는 지점",
+  "summary": "전자서명은 서명자·일시·의미가 기록에 연결돼야 하며, 서명 이미지나 로그인만으로는 부족하다.",
+  "url": "https://diforum.org/update/261111.html",
+  "ai": true
+ },
+ {
   "no": "261110-4",
   "date": "2026-11-10",
   "category": "규제 동향",
@@ -258,15 +267,6 @@
   "title": "PMDA EV 품질자료, 시험 단계 선택 근거도 남기세요",
   "summary": "결과값만 남기지 말고, 가장 민감한 시험 단계와 선택 이유를 연결해야 합니다.",
   "url": "https://diforum.org/update/261026-3.html",
-  "ai": true
- },
- {
-  "no": "261026-2",
-  "date": "2026-10-26",
-  "category": "규제 동향",
-  "title": "PIC/S 적격성평가·밸리데이션 권고문서 PI 006-4 개정, 이미 발효",
-  "summary": "PIC/S가 PI 006-3을 대체하는 PI 006-4를 발표했고 시행일 2026년 10월 1일이 지나 이미 발효 중입니다.",
-  "url": "https://diforum.org/update/261026-2.html",
   "ai": true
  }
 ]
