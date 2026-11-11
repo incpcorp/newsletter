@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Wed, 11 Nov 2026 20:32:22 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 20:32:54 +0900</lastBuildDate>
+  <item>
+    <title>WHO 니트로사민 허용량, 치료기간 근거를 연결하세요</title>
+    <link>https://diforum.org/update/261111-3.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261111-3.html</guid>
+    <pubDate>Wed, 11 Nov 2026 20:32:54 +0900</pubDate>
+    <category>규제 동향</category>
+    <description>단기 투여 품목의 허용량 조정은 치료기간·최대 투여량·계산 근거를 함께 남겨야 합니다.</description>
+  </item>
   <item>
     <title>위험 없음'은 평가가 없었다는 신호 — PIC/S PI 041-1 #5.5</title>
     <link>https://diforum.org/update/261111-2.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Wed, 28 Oct 2026 00:16:27 +0900</pubDate>
     <category>규제 동향</category>
     <description>임상시험 때 쓴 검사와 허가 후 쓸 검사가 다르면 일치도 근거와 관계 설명이 필요합니다.</description>
-  </item>
-  <item>
-    <title>배치 기록에 없는 개입, 배지충전에서... — FDA 경고장</title>
-    <link>https://diforum.org/update/261028.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261028.html</guid>
-    <pubDate>Wed, 28 Oct 2026 00:15:16 +0900</pubDate>
-    <category>사례 노트</category>
-    <description>개입이 배치 기록에 없으면 배지충전은 실제 공정을 재현하지 못합니다. 2022년 지적이 2026년에 반복된 사례입니다.</description>
   </item>
 </channel>
 </rss>
