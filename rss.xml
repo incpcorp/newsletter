@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Wed, 11 Nov 2026 20:32:54 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 20:33:39 +0900</lastBuildDate>
+  <item>
+    <title>컴퓨터화 시스템(Computerised System) — 현장에서 헷갈리는 지점</title>
+    <link>https://diforum.org/update/261111-4.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261111-4.html</guid>
+    <pubDate>Wed, 11 Nov 2026 20:33:39 +0900</pubDate>
+    <category>용어 한 줄</category>
+    <description>컴퓨터화 시스템은 기기 한 대가 아니라 소프트웨어·사람·절차까지 묶어 관리해야 하는 대상이다.</description>
+  </item>
   <item>
     <title>WHO 니트로사민 허용량, 치료기간 근거를 연결하세요</title>
     <link>https://diforum.org/update/261111-3.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Wed, 28 Oct 2026 00:24:30 +0900</pubDate>
     <category>용어 한 줄</category>
     <description>정본은 복사했다는 사실이 아니라, 원본과 같음을 확인한 사본이다.</description>
-  </item>
-  <item>
-    <title>PMDA 동반진단 지침, 임상시험 검사와 허가용 검사를 연결하세요</title>
-    <link>https://diforum.org/update/261028-2.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261028-2.html</guid>
-    <pubDate>Wed, 28 Oct 2026 00:16:27 +0900</pubDate>
-    <category>규제 동향</category>
-    <description>임상시험 때 쓴 검사와 허가 후 쓸 검사가 다르면 일치도 근거와 관계 설명이 필요합니다.</description>
   </item>
 </channel>
 </rss>
