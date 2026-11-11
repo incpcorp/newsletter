@@ -1,5 +1,14 @@
 [
  {
+  "no": "261111-4",
+  "date": "2026-11-11",
+  "category": "용어 한 줄",
+  "title": "컴퓨터화 시스템(Computerised System) — 현장에서 헷갈리는 지점",
+  "summary": "컴퓨터화 시스템은 기기 한 대가 아니라 소프트웨어·사람·절차까지 묶어 관리해야 하는 대상이다.",
+  "url": "https://diforum.org/update/261111-4.html",
+  "ai": true
+ },
+ {
   "no": "261111-3",
   "date": "2026-11-11",
   "category": "규제 동향",
@@ -258,15 +267,6 @@
   "title": "정본(True Copy) — '유효사본'과 섞어 쓰는 현장의 혼동",
   "summary": "정본은 복사했다는 사실이 아니라, 원본과 같음을 확인한 사본이다.",
   "url": "https://diforum.org/update/261028-3.html",
-  "ai": true
- },
- {
-  "no": "261028-2",
-  "date": "2026-10-28",
-  "category": "규제 동향",
-  "title": "PMDA 동반진단 지침, 임상시험 검사와 허가용 검사를 연결하세요",
-  "summary": "임상시험 때 쓴 검사와 허가 후 쓸 검사가 다르면 일치도 근거와 관계 설명이 필요합니다.",
-  "url": "https://diforum.org/update/261028-2.html",
   "ai": true
  }
 ]
