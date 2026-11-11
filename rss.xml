@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Wed, 11 Nov 2026 20:31:46 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 20:32:22 +0900</lastBuildDate>
+  <item>
+    <title>위험 없음'은 평가가 없었다는 신호 — PIC/S PI 041-1 #5.5</title>
+    <link>https://diforum.org/update/261111-2.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261111-2.html</guid>
+    <pubDate>Wed, 11 Nov 2026 20:32:22 +0900</pubDate>
+    <category>규제 동향</category>
+    <description>PIC/S는 밸리데이션만으로 데이터 완전성 위험이 낮아지지 않는다고 봅니다. 사람 손이 닿는 접점부터 평가하세요.</description>
+  </item>
   <item>
     <title>전자서명(Electronic Signature) — 서명 이미지와 헷갈리는 지점</title>
     <link>https://diforum.org/update/261111.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Wed, 28 Oct 2026 00:15:16 +0900</pubDate>
     <category>사례 노트</category>
     <description>개입이 배치 기록에 없으면 배지충전은 실제 공정을 재현하지 못합니다. 2022년 지적이 2026년에 반복된 사례입니다.</description>
-  </item>
-  <item>
-    <title>PMDA EV 품질자료, 시험 단계 선택 근거도 남기세요</title>
-    <link>https://diforum.org/update/261026-3.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261026-3.html</guid>
-    <pubDate>Mon, 26 Oct 2026 21:05:00 +0900</pubDate>
-    <category>규제 동향</category>
-    <description>결과값만 남기지 말고, 가장 민감한 시험 단계와 선택 이유를 연결해야 합니다.</description>
   </item>
 </channel>
 </rss>
