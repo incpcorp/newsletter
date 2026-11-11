@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Tue, 10 Nov 2026 09:49:35 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 20:31:46 +0900</lastBuildDate>
+  <item>
+    <title>전자서명(Electronic Signature) — 서명 이미지와 헷갈리는 지점</title>
+    <link>https://diforum.org/update/261111.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261111.html</guid>
+    <pubDate>Wed, 11 Nov 2026 20:31:46 +0900</pubDate>
+    <category>용어 한 줄</category>
+    <description>전자서명은 서명자·일시·의미가 기록에 연결돼야 하며, 서명 이미지나 로그인만으로는 부족하다.</description>
+  </item>
   <item>
     <title>시스템 장애는 고치고 끝이 아닙니다 — ICH Q7 #5.46 인시던트</title>
     <link>https://diforum.org/update/261110-4.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Mon, 26 Oct 2026 21:05:00 +0900</pubDate>
     <category>규제 동향</category>
     <description>결과값만 남기지 말고, 가장 민감한 시험 단계와 선택 이유를 연결해야 합니다.</description>
-  </item>
-  <item>
-    <title>PIC/S 적격성평가·밸리데이션 권고문서 PI 006-4 개정, 이미 발효</title>
-    <link>https://diforum.org/update/261026-2.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261026-2.html</guid>
-    <pubDate>Mon, 26 Oct 2026 21:04:16 +0900</pubDate>
-    <category>규제 동향</category>
-    <description>PIC/S가 PI 006-3을 대체하는 PI 006-4를 발표했고 시행일 2026년 10월 1일이 지나 이미 발효 중입니다.</description>
   </item>
 </channel>
 </rss>
