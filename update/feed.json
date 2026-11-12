@@ -1,5 +1,14 @@
 [
  {
+  "no": "261113-3",
+  "date": "2026-11-13",
+  "category": "규제 동향",
+  "title": "PMDA 검증 엔진 변경, 규칙과 실행환경을 따로 기록하세요",
+  "summary": "PMDA 검증 엔진 변경을 계기로 규칙 버전과 실행 증거를 구분해 점검합니다.",
+  "url": "https://diforum.org/update/261113-3.html",
+  "ai": true
+ },
+ {
   "no": "261113-2",
   "date": "2026-11-13",
   "category": "용어 한 줄",
@@ -258,15 +267,6 @@
   "title": "FDA 유전자편집 초안, 환자와 제품 변형을 끝까지 연결하세요",
   "summary": "환자별로 달라지는 제품일수록 채취부터 최종 용기까지 동일성 기록이 이어져야 합니다.",
   "url": "https://diforum.org/update/261030-2.html",
-  "ai": true
- },
- {
-  "no": "261030",
-  "date": "2026-10-30",
-  "category": "규제 동향",
-  "title": "PIC/S PI 058-1 발효 — Annex 1 경고 기준은 추세 데이터로",
-  "summary": "10월 28일 발효된 PIC/S Annex 1 해석 권고, 환경모니터링 경고 기준과 개입 기록을 데이터 관점으로 읽습니다",
-  "url": "https://diforum.org/update/261030.html",
   "ai": true
  }
 ]
