@@ -1,5 +1,14 @@
 [
  {
+  "no": "261114",
+  "date": "2026-11-14",
+  "category": "용어 한 줄",
+  "title": "귀속성(Attributable) — 서명만 있으면 되는 게 아닌 이유",
+  "summary": "기록을 누가, 언제 남겼는지 특정인에게 이어지는 것이 귀속성입니다. 서명 한 줄이 아니라 기록 전체에 걸린 조건입니다.",
+  "url": "https://diforum.org/update/261114.html",
+  "ai": true
+ },
+ {
   "no": "261113-4",
   "date": "2026-11-13",
   "category": "규제 동향",
@@ -258,15 +267,6 @@
   "title": "유사하다'고 적은 기록은 식별이 아닙니다 — PET 제조소 FDA 경고장",
   "summary": "ISO 5 구역 검출 균 90건 이상을 '이전 집락과 유사'로만 적고 식별 없이 출하한 PET 제조소",
   "url": "https://diforum.org/update/261102.html",
-  "ai": true
- },
- {
-  "no": "261030-3",
-  "date": "2026-10-30",
-  "category": "규제 동향",
-  "title": "EMA 이상반응 보고 초안, 수정 전 기록과 버전을 함께 남기세요",
-  "summary": "EMA의 이상약물반응 보고 데이터 품질 프레임워크 초안을 바탕으로 입력 단계 검증, 원기록·버전 보존, 중복 관리를 점검합니다.",
-  "url": "https://diforum.org/update/261030-3.html",
   "ai": true
  }
 ]
