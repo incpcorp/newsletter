@@ -1,5 +1,14 @@
 [
  {
+  "no": "261116",
+  "date": "2026-11-16",
+  "category": "용어 한 줄",
+  "title": "가독성(Legible) — 사본으로 옮겨도 읽히는가",
+  "summary": "가독성은 글씨 모양만이 아니라, 기록을 보관 기간 내내 맥락과 함께 읽고 이해할 수 있느냐의 문제다.",
+  "url": "https://diforum.org/update/261116.html",
+  "ai": true
+ },
+ {
   "no": "261114",
   "date": "2026-11-14",
   "category": "용어 한 줄",
@@ -258,15 +267,6 @@
   "title": "FDA QT 분석 지침, 모델은 결과 전에 정하세요",
   "summary": "같은 심전도 자료도 모델에 따라 결론이 달라질 수 있어 선택 기준과 가정을 분석 전에 정해야 합니다.",
   "url": "https://diforum.org/update/261102-2.html",
-  "ai": true
- },
- {
-  "no": "261102",
-  "date": "2026-11-02",
-  "category": "사례 노트",
-  "title": "유사하다'고 적은 기록은 식별이 아닙니다 — PET 제조소 FDA 경고장",
-  "summary": "ISO 5 구역 검출 균 90건 이상을 '이전 집락과 유사'로만 적고 식별 없이 출하한 PET 제조소",
-  "url": "https://diforum.org/update/261102.html",
   "ai": true
  }
 ]
