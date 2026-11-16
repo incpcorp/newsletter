@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Mon, 16 Nov 2026 11:03:54 +0900</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 11:05:43 +0900</lastBuildDate>
+  <item>
+    <title>EMA 임신안전성 초안, 출생 결과만 모으면 위험이 작아집니다</title>
+    <link>https://diforum.org/update/261116-3.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261116-3.html</guid>
+    <pubDate>Mon, 16 Nov 2026 11:05:43 +0900</pubDate>
+    <category>규제 동향</category>
+    <description>EMA 초안은 초기 임신손실과 비출생 결과까지 포함한 결과보고의 완전성을 강조합니다.</description>
+  </item>
   <item>
     <title>빈 양식은 꺼내는 순간부터 기록입니다 — PIC/S PI 041-1 #8.4</title>
     <link>https://diforum.org/update/261116-2.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Tue, 03 Nov 2026 16:20:17 +0900</pubDate>
     <category>사례 노트</category>
     <description>실사 없이 제출 기록만으로 판단한 FDA 경고장. 제출하지 못한 밸리데이션·안정성 기록은 '하지 않은 것'으로 읽힙니다.</description>
-  </item>
-  <item>
-    <title>메타데이터(Metadata) — 현장에서 헷갈리는 지점</title>
-    <link>https://diforum.org/update/261102-3.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261102-3.html</guid>
-    <pubDate>Mon, 02 Nov 2026 15:04:10 +0900</pubDate>
-    <category>용어 한 줄</category>
-    <description>메타데이터는 기초 자료(Raw Data)의 맥락을 설명하는 정보로, 값만 남기고 맥락을 잃으면 데이터 완전성이 흔들린다.</description>
   </item>
 </channel>
 </rss>
