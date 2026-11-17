@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Wed, 18 Nov 2026 06:55:38 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 06:56:19 +0900</lastBuildDate>
+  <item>
+    <title>동시성(Contemporaneous) — 날짜만 맞춘 기록과의 차이</title>
+    <link>https://diforum.org/update/261118-2.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261118-2.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:56:19 +0900</pubDate>
+    <category>용어 한 줄</category>
+    <description>동시성은 작업하는 그 시점에 기록하라는 요건으로, 날짜만 맞춘 사후 기록과는 다르다.</description>
+  </item>
   <item>
     <title>EMA 이상약물반응 보고 품질 초안, 원문 확인 후 절차를 점검하세요</title>
     <link>https://diforum.org/update/261118.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Wed, 04 Nov 2026 23:18:13 +0900</pubDate>
     <category>규제 동향</category>
     <description>최종안 제출 목표가 2026년 4분기입니다. 초안은 품질 결정에 쓴 데이터는 모두 기초 자료로 정의하라고 합니다</description>
-  </item>
-  <item>
-    <title>FDA 역가 보증 지침, 출하시험 하나로 끝나지 않습니다</title>
-    <link>https://diforum.org/update/261103-2.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261103-2.html</guid>
-    <pubDate>Tue, 03 Nov 2026 16:20:51 +0900</pubDate>
-    <category>규제 동향</category>
-    <description>세포·유전자치료제의 역가는 원료·공정·공정 중 시험·출하시험을 전주기로 연결해 보증해야 합니다.</description>
   </item>
 </channel>
 </rss>
