@@ -1,5 +1,14 @@
 [
  {
+  "no": "261118-4",
+  "date": "2026-11-18",
+  "category": "규제 동향",
+  "title": "PMDA 소아개발 Q&A, 상담기록 연결성을 묻다",
+  "summary": "M&S 합의와 변경·후속 상담을 기록 번호로 잇는 관리 포인트",
+  "url": "https://diforum.org/update/261118-4.html",
+  "ai": true
+ },
+ {
   "no": "261118-3",
   "date": "2026-11-18",
   "category": "사례 노트",
@@ -258,15 +267,6 @@
   "title": "데이터 관리체계(Data Governance) — 현장에서 헷갈리는 지점",
   "summary": "데이터 관리체계는 지침서 묶음이 아니라, 데이터가 폐기될 때까지 책임과 점검이 돌아가는 전체 틀이다.",
   "url": "https://diforum.org/update/261105-2.html",
-  "ai": true
- },
- {
-  "no": "261105",
-  "date": "2026-11-05",
-  "category": "규제 동향",
-  "title": "PMDA AI 원칙, 입력자료와 판단 근거를 함께 남기세요",
-  "summary": "규제업무에 AI를 쓸 때 데이터 출처·처리·변경 이력과 사람의 판단을 연결해야 합니다.",
-  "url": "https://diforum.org/update/261105.html",
   "ai": true
  }
 ]
