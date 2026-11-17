@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Wed, 18 Nov 2026 06:58:39 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 06:59:12 +0900</lastBuildDate>
+  <item>
+    <title>원본성(Original) — 출력물을 원본으로 착각하는 지점</title>
+    <link>https://diforum.org/update/261118-5.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261118-5.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:59:12 +0900</pubDate>
+    <category>용어 한 줄</category>
+    <description>원본성은 기록이 처음 만들어진 그대로이거나, 검증된 사본으로 보존되어 있다는 뜻입니다.</description>
+  </item>
   <item>
     <title>PMDA 소아개발 Q&amp;A, 상담기록 연결성을 묻다</title>
     <link>https://diforum.org/update/261118-4.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Fri, 06 Nov 2026 07:06:28 +0900</pubDate>
     <category>사례 노트</category>
     <description>한 성분을 세 기록이 다르게 적었고, FDA의 두 차례 질문에는 답이 없었습니다. 기록끼리 맞는지가 먼저입니다.</description>
-  </item>
-  <item>
-    <title>데이터 관리체계(Data Governance) — 현장에서 헷갈리는 지점</title>
-    <link>https://diforum.org/update/261105-2.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261105-2.html</guid>
-    <pubDate>Thu, 05 Nov 2026 06:36:39 +0900</pubDate>
-    <category>용어 한 줄</category>
-    <description>데이터 관리체계는 지침서 묶음이 아니라, 데이터가 폐기될 때까지 책임과 점검이 돌아가는 전체 틀이다.</description>
   </item>
 </channel>
 </rss>
