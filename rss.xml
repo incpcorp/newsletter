@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Wed, 18 Nov 2026 06:57:41 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 06:58:39 +0900</lastBuildDate>
+  <item>
+    <title>PMDA 소아개발 Q&amp;A, 상담기록 연결성을 묻다</title>
+    <link>https://diforum.org/update/261118-4.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261118-4.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:58:39 +0900</pubDate>
+    <category>규제 동향</category>
+    <description>M&amp;S 합의와 변경·후속 상담을 기록 번호로 잇는 관리 포인트</description>
+  </item>
   <item>
     <title>적합한 결과가 설계 결함을 대신할 수 없습니다 — 무균 제조소 FDA 경고장</title>
     <link>https://diforum.org/update/261118-3.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Thu, 05 Nov 2026 06:36:39 +0900</pubDate>
     <category>용어 한 줄</category>
     <description>데이터 관리체계는 지침서 묶음이 아니라, 데이터가 폐기될 때까지 책임과 점검이 돌아가는 전체 틀이다.</description>
-  </item>
-  <item>
-    <title>PMDA AI 원칙, 입력자료와 판단 근거를 함께 남기세요</title>
-    <link>https://diforum.org/update/261105.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261105.html</guid>
-    <pubDate>Thu, 05 Nov 2026 06:36:07 +0900</pubDate>
-    <category>규제 동향</category>
-    <description>규제업무에 AI를 쓸 때 데이터 출처·처리·변경 이력과 사람의 판단을 연결해야 합니다.</description>
   </item>
 </channel>
 </rss>
