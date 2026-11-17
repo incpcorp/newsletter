@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Mon, 16 Nov 2026 11:05:43 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 06:55:38 +0900</lastBuildDate>
+  <item>
+    <title>EMA 이상약물반응 보고 품질 초안, 원문 확인 후 절차를 점검하세요</title>
+    <link>https://diforum.org/update/261118.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261118.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:55:38 +0900</pubDate>
+    <category>규제 동향</category>
+    <description>EMA가 이상약물반응 보고의 수집·관리·제출용 데이터 품질 프레임워크 초안을 의견수렴에 부쳤으니 원문부터 확인하세요.</description>
+  </item>
   <item>
     <title>EMA 임신안전성 초안, 출생 결과만 모으면 위험이 작아집니다</title>
     <link>https://diforum.org/update/261116-3.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Tue, 03 Nov 2026 16:20:51 +0900</pubDate>
     <category>규제 동향</category>
     <description>세포·유전자치료제의 역가는 원료·공정·공정 중 시험·출하시험을 전주기로 연결해 보증해야 합니다.</description>
-  </item>
-  <item>
-    <title>밸리데이션 자료가 '없다'고 답한 제조소 — FDA 기록 요청 경고장</title>
-    <link>https://diforum.org/update/261103.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261103.html</guid>
-    <pubDate>Tue, 03 Nov 2026 16:20:17 +0900</pubDate>
-    <category>사례 노트</category>
-    <description>실사 없이 제출 기록만으로 판단한 FDA 경고장. 제출하지 못한 밸리데이션·안정성 기록은 '하지 않은 것'으로 읽힙니다.</description>
   </item>
 </channel>
 </rss>
