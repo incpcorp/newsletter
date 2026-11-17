@@ -1,5 +1,14 @@
 [
  {
+  "no": "261118-5",
+  "date": "2026-11-18",
+  "category": "용어 한 줄",
+  "title": "원본성(Original) — 출력물을 원본으로 착각하는 지점",
+  "summary": "원본성은 기록이 처음 만들어진 그대로이거나, 검증된 사본으로 보존되어 있다는 뜻입니다.",
+  "url": "https://diforum.org/update/261118-5.html",
+  "ai": true
+ },
+ {
   "no": "261118-4",
   "date": "2026-11-18",
   "category": "규제 동향",
@@ -258,15 +267,6 @@
   "title": "표시사항·배합표·성적서의 색소가 제각각 — 한 제조소 FDA 경고장",
   "summary": "한 성분을 세 기록이 다르게 적었고, FDA의 두 차례 질문에는 답이 없었습니다. 기록끼리 맞는지가 먼저입니다.",
   "url": "https://diforum.org/update/261106.html",
-  "ai": true
- },
- {
-  "no": "261105-2",
-  "date": "2026-11-05",
-  "category": "용어 한 줄",
-  "title": "데이터 관리체계(Data Governance) — 현장에서 헷갈리는 지점",
-  "summary": "데이터 관리체계는 지침서 묶음이 아니라, 데이터가 폐기될 때까지 책임과 점검이 돌아가는 전체 틀이다.",
-  "url": "https://diforum.org/update/261105-2.html",
   "ai": true
  }
 ]
