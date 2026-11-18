@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Thu, 19 Nov 2026 01:14:18 +0900</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 01:15:21 +0900</lastBuildDate>
+  <item>
+    <title>정확성(Accurate) — 현장에서 헷갈리는 지점</title>
+    <link>https://diforum.org/update/261119-3.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261119-3.html</guid>
+    <pubDate>Thu, 19 Nov 2026 01:15:21 +0900</pubDate>
+    <category>용어 한 줄</category>
+    <description>정확성은 기록이 실제 일어난 일을 사실대로 담았는지를 묻는다. 정정과 사본 이후에도 그 사실이 남아야 한다.</description>
+  </item>
   <item>
     <title>PIC/S CCS Q&amp;A, 연 1회 검토만으로는 부족합니다</title>
     <link>https://diforum.org/update/261119-2.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Sat, 07 Nov 2026 02:48:00 +0900</pubDate>
     <category>규제 동향</category>
     <description>PI 041-1 #9.5는 시스템 시계의 동기화와 접근 제한을 함께 요구합니다. 동시성의 전제는 맞는 시계입니다.</description>
-  </item>
-  <item>
-    <title>데이터 전주기(Data Lifecycle) — 현장에서 헷갈리는 지점</title>
-    <link>https://diforum.org/update/261106-3.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261106-3.html</guid>
-    <pubDate>Fri, 06 Nov 2026 07:07:37 +0900</pubDate>
-    <category>용어 한 줄</category>
-    <description>데이터 전주기는 보관 단계만이 아니라 생성부터 폐기까지 전 과정을 관리 대상으로 본다는 뜻입니다.</description>
   </item>
 </channel>
 </rss>
