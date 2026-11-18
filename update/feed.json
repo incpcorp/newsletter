@@ -1,5 +1,14 @@
 [
  {
+  "no": "261119-2",
+  "date": "2026-11-19",
+  "category": "규제 동향",
+  "title": "PIC/S CCS Q&A, 연 1회 검토만으로는 부족합니다",
+  "summary": "오염관리전략은 연례 문서가 아니라 변경·일탈·추세에 반응하는 관리체계입니다",
+  "url": "https://diforum.org/update/261119-2.html",
+  "ai": true
+ },
+ {
   "no": "261119",
   "date": "2026-11-19",
   "category": "규제 동향",
@@ -258,15 +267,6 @@
   "title": "데이터 전주기(Data Lifecycle) — 현장에서 헷갈리는 지점",
   "summary": "데이터 전주기는 보관 단계만이 아니라 생성부터 폐기까지 전 과정을 관리 대상으로 본다는 뜻입니다.",
   "url": "https://diforum.org/update/261106-3.html",
-  "ai": true
- },
- {
-  "no": "261106-2",
-  "date": "2026-11-06",
-  "category": "규제 동향",
-  "title": "식약처 매개변수기반 출하 질의응답집, 심사 대응 전 먼저 읽으세요",
-  "summary": "매개변수기반 출하 품질심사 질의응답집이 안내서로 제정되었으니, 첨부 PDF에서 우리 심사 준비와 맞는지 확인하세요.",
-  "url": "https://diforum.org/update/261106-2.html",
   "ai": true
  }
 ]
