@@ -1,5 +1,14 @@
 [
  {
+  "no": "261119-3",
+  "date": "2026-11-19",
+  "category": "용어 한 줄",
+  "title": "정확성(Accurate) — 현장에서 헷갈리는 지점",
+  "summary": "정확성은 기록이 실제 일어난 일을 사실대로 담았는지를 묻는다. 정정과 사본 이후에도 그 사실이 남아야 한다.",
+  "url": "https://diforum.org/update/261119-3.html",
+  "ai": true
+ },
+ {
   "no": "261119-2",
   "date": "2026-11-19",
   "category": "규제 동향",
@@ -258,15 +267,6 @@
   "title": "시계가 틀리면 점검기록의 '언제'도 틀립니다 — PIC/S PI 041-1 #9.5",
   "summary": "PI 041-1 #9.5는 시스템 시계의 동기화와 접근 제한을 함께 요구합니다. 동시성의 전제는 맞는 시계입니다.",
   "url": "https://diforum.org/update/261107.html",
-  "ai": true
- },
- {
-  "no": "261106-3",
-  "date": "2026-11-06",
-  "category": "용어 한 줄",
-  "title": "데이터 전주기(Data Lifecycle) — 현장에서 헷갈리는 지점",
-  "summary": "데이터 전주기는 보관 단계만이 아니라 생성부터 폐기까지 전 과정을 관리 대상으로 본다는 뜻입니다.",
-  "url": "https://diforum.org/update/261106-3.html",
   "ai": true
  }
 ]
