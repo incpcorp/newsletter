@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Thu, 19 Nov 2026 01:13:47 +0900</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 01:14:18 +0900</lastBuildDate>
+  <item>
+    <title>PIC/S CCS Q&amp;A, 연 1회 검토만으로는 부족합니다</title>
+    <link>https://diforum.org/update/261119-2.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261119-2.html</guid>
+    <pubDate>Thu, 19 Nov 2026 01:14:18 +0900</pubDate>
+    <category>규제 동향</category>
+    <description>오염관리전략은 연례 문서가 아니라 변경·일탈·추세에 반응하는 관리체계입니다</description>
+  </item>
   <item>
     <title>자율점검표에 데이터 완전성이 있나요 — PIC/S PI 041-1 #5.6</title>
     <link>https://diforum.org/update/261119.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Fri, 06 Nov 2026 07:07:37 +0900</pubDate>
     <category>용어 한 줄</category>
     <description>데이터 전주기는 보관 단계만이 아니라 생성부터 폐기까지 전 과정을 관리 대상으로 본다는 뜻입니다.</description>
-  </item>
-  <item>
-    <title>식약처 매개변수기반 출하 질의응답집, 심사 대응 전 먼저 읽으세요</title>
-    <link>https://diforum.org/update/261106-2.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261106-2.html</guid>
-    <pubDate>Fri, 06 Nov 2026 07:06:59 +0900</pubDate>
-    <category>규제 동향</category>
-    <description>매개변수기반 출하 품질심사 질의응답집이 안내서로 제정되었으니, 첨부 PDF에서 우리 심사 준비와 맞는지 확인하세요.</description>
   </item>
 </channel>
 </rss>
