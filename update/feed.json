@@ -1,5 +1,14 @@
 [
  {
+  "no": "261120-3",
+  "date": "2026-11-20",
+  "category": "용어 한 줄",
+  "title": "완전성(Complete) — 데이터 완전성과 헷갈리는 지점",
+  "summary": "완전성(Complete)은 알코아(ALCOA++) 속성 중 하나로, 결과를 만든 데이터가 빠짐없이 남아 있는지를 묻는다.",
+  "url": "https://diforum.org/update/261120-3.html",
+  "ai": true
+ },
+ {
   "no": "261120-2",
   "date": "2026-11-20",
   "category": "규제 동향",
@@ -258,15 +267,6 @@
   "title": "하이브리드 시스템(Hybrid System) — 종이와 전자가 섞인 기록의 연결",
   "summary": "전자 기록과 종이 기록이 한 작업을 함께 구성하는 시스템으로, 둘을 잇는 연결 고리가 데이터 완전성의 핵심이다.",
   "url": "https://diforum.org/update/261108.html",
-  "ai": true
- },
- {
-  "no": "261107-3",
-  "date": "2026-11-07",
-  "category": "용어 한 줄",
-  "title": "정적·동적 기록(Static/Dynamic Record) — 자료가 아니라 기록",
-  "summary": "정적 기록은 고정된 형태로 남는 기록, 동적 기록은 다시 처리·조회할 수 있는 기록이다. 옮길 때 이 성질이 남아야 한다.",
-  "url": "https://diforum.org/update/261107-3.html",
   "ai": true
  }
 ]
