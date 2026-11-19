@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Fri, 20 Nov 2026 07:17:32 +0900</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 07:19:16 +0900</lastBuildDate>
+  <item>
+    <title>완전성(Complete) — 데이터 완전성과 헷갈리는 지점</title>
+    <link>https://diforum.org/update/261120-3.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261120-3.html</guid>
+    <pubDate>Fri, 20 Nov 2026 07:19:16 +0900</pubDate>
+    <category>용어 한 줄</category>
+    <description>완전성(Complete)은 알코아(ALCOA++) 속성 중 하나로, 결과를 만든 데이터가 빠짐없이 남아 있는지를 묻는다.</description>
+  </item>
   <item>
     <title>사전 GMP 평가 지침 개정, 제출자료 추적성을 먼저 보세요</title>
     <link>https://diforum.org/update/261120-2.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Sun, 08 Nov 2026 13:20:21 +0900</pubDate>
     <category>용어 한 줄</category>
     <description>전자 기록과 종이 기록이 한 작업을 함께 구성하는 시스템으로, 둘을 잇는 연결 고리가 데이터 완전성의 핵심이다.</description>
-  </item>
-  <item>
-    <title>정적·동적 기록(Static/Dynamic Record) — 자료가 아니라 기록</title>
-    <link>https://diforum.org/update/261107-3.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261107-3.html</guid>
-    <pubDate>Sat, 07 Nov 2026 02:49:19 +0900</pubDate>
-    <category>용어 한 줄</category>
-    <description>정적 기록은 고정된 형태로 남는 기록, 동적 기록은 다시 처리·조회할 수 있는 기록이다. 옮길 때 이 성질이 남아야 한다.</description>
   </item>
 </channel>
 </rss>
