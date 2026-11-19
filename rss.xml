@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Thu, 19 Nov 2026 01:15:21 +0900</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 07:13:09 +0900</lastBuildDate>
+  <item>
+    <title>기초 자료만 남기고 처리 결과를 지운 제조소 — FDA 경고장 #211.194(a)</title>
+    <link>https://diforum.org/update/261120.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261120.html</guid>
+    <pubDate>Fri, 20 Nov 2026 07:13:09 +0900</pubDate>
+    <category>사례 노트</category>
+    <description>처리된 크로마토그램 미보존·잠기지 않은 추세 스프레드시트 — 21 CFR #211.194(a) 경고장(2026-11-10)</description>
+  </item>
   <item>
     <title>정확성(Accurate) — 현장에서 헷갈리는 지점</title>
     <link>https://diforum.org/update/261119-3.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Sat, 07 Nov 2026 02:48:47 +0900</pubDate>
     <category>규제 동향</category>
     <description>경제협력개발기구(OECD) 체계 밖 비임상 데이터도 데이터 완전성 기준은 그대로이니, 기초 자료와 기록을 확인하세요.</description>
-  </item>
-  <item>
-    <title>시계가 틀리면 점검기록의 '언제'도 틀립니다 — PIC/S PI 041-1 #9.5</title>
-    <link>https://diforum.org/update/261107.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261107.html</guid>
-    <pubDate>Sat, 07 Nov 2026 02:48:00 +0900</pubDate>
-    <category>규제 동향</category>
-    <description>PI 041-1 #9.5는 시스템 시계의 동기화와 접근 제한을 함께 요구합니다. 동시성의 전제는 맞는 시계입니다.</description>
   </item>
 </channel>
 </rss>
