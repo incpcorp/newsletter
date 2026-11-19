@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Fri, 20 Nov 2026 07:13:09 +0900</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 07:17:32 +0900</lastBuildDate>
+  <item>
+    <title>사전 GMP 평가 지침 개정, 제출자료 추적성을 먼저 보세요</title>
+    <link>https://diforum.org/update/261120-2.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261120-2.html</guid>
+    <pubDate>Fri, 20 Nov 2026 07:17:32 +0900</pubDate>
+    <category>규제 동향</category>
+    <description>식약처 전면 개정은 요건 완화가 아니라 평가 절차와 제출자료의 연결을 명확히 한 변화입니다.</description>
+  </item>
   <item>
     <title>기초 자료만 남기고 처리 결과를 지운 제조소 — FDA 경고장 #211.194(a)</title>
     <link>https://diforum.org/update/261120.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Sat, 07 Nov 2026 02:49:19 +0900</pubDate>
     <category>용어 한 줄</category>
     <description>정적 기록은 고정된 형태로 남는 기록, 동적 기록은 다시 처리·조회할 수 있는 기록이다. 옮길 때 이 성질이 남아야 한다.</description>
-  </item>
-  <item>
-    <title>영국 비임상 안내서, 체계 밖 데이터는 기초 자료부터 점검하세요</title>
-    <link>https://diforum.org/update/261107-2.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261107-2.html</guid>
-    <pubDate>Sat, 07 Nov 2026 02:48:47 +0900</pubDate>
-    <category>규제 동향</category>
-    <description>경제협력개발기구(OECD) 체계 밖 비임상 데이터도 데이터 완전성 기준은 그대로이니, 기초 자료와 기록을 확인하세요.</description>
   </item>
 </channel>
 </rss>
