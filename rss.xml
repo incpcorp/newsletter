@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Fri, 20 Nov 2026 07:19:16 +0900</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 22:56:33 +0900</lastBuildDate>
+  <item>
+    <title>PMDA DNA 시퀀서 CDx, 시험 생략보다 근거 연결이 먼저입니다</title>
+    <link>https://diforum.org/update/261120-4.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261120-4.html</guid>
+    <pubDate>Fri, 20 Nov 2026 22:56:33 +0900</pubDate>
+    <category>규제 동향</category>
+    <description>검출한계와 양성 판정기준으로 동등성을 설명하려면 분석성능과 근거 연결이 먼저입니다.</description>
+  </item>
   <item>
     <title>완전성(Complete) — 데이터 완전성과 헷갈리는 지점</title>
     <link>https://diforum.org/update/261120-3.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Sun, 08 Nov 2026 13:37:37 +0900</pubDate>
     <category>규제 동향</category>
     <description>영국 규제청이 임상시험관리기준(GCP) 점검 안내를 갱신했습니다. 임상시험수탁기관(CRO)과 시스템 공급사의 위탁 관리를 확인하세요.</description>
-  </item>
-  <item>
-    <title>하이브리드 시스템(Hybrid System) — 종이와 전자가 섞인 기록의 연결</title>
-    <link>https://diforum.org/update/261108.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261108.html</guid>
-    <pubDate>Sun, 08 Nov 2026 13:20:21 +0900</pubDate>
-    <category>용어 한 줄</category>
-    <description>전자 기록과 종이 기록이 한 작업을 함께 구성하는 시스템으로, 둘을 잇는 연결 고리가 데이터 완전성의 핵심이다.</description>
   </item>
 </channel>
 </rss>
