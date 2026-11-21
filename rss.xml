@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Fri, 20 Nov 2026 22:56:33 +0900</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 21:32:45 +0900</lastBuildDate>
+  <item>
+    <title>일관성(Consistent) — 값이 같은 것과 흐름이 맞는 것</title>
+    <link>https://diforum.org/update/261121.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261121.html</guid>
+    <pubDate>Sat, 21 Nov 2026 21:32:45 +0900</pubDate>
+    <category>용어 한 줄</category>
+    <description>일관성은 기록이 만들어지고 바뀐 순서와 시각이 모순 없이 이어지는 상태이며, 기록이 옮겨져도 그 순서가 남아야 한다.</description>
+  </item>
   <item>
     <title>PMDA DNA 시퀀서 CDx, 시험 생략보다 근거 연결이 먼저입니다</title>
     <link>https://diforum.org/update/261120-4.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Sun, 08 Nov 2026 21:28:55 +0900</pubDate>
     <category>용어 한 줄</category>
     <description>보존은 보관 기간 내내 기록을 읽을 수 있는 상태로 두는 일이며, 장애에 대비한 복구용 사본인 백업과 다릅니다.</description>
-  </item>
-  <item>
-    <title>영국 임상시험 점검 안내 갱신, 위탁처 관리부터 확인하세요</title>
-    <link>https://diforum.org/update/261108-2.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261108-2.html</guid>
-    <pubDate>Sun, 08 Nov 2026 13:37:37 +0900</pubDate>
-    <category>규제 동향</category>
-    <description>영국 규제청이 임상시험관리기준(GCP) 점검 안내를 갱신했습니다. 임상시험수탁기관(CRO)과 시스템 공급사의 위탁 관리를 확인하세요.</description>
   </item>
 </channel>
 </rss>
