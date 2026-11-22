@@ -1,5 +1,14 @@
 [
  {
+  "no": "261123",
+  "date": "2026-11-23",
+  "category": "용어 한 줄",
+  "title": "가용성(Available) — 보관했다와 꺼내 볼 수 있다의 차이",
+  "summary": "가용성은 기록이 어딘가 남아 있는 것이 아니라, 필요한 때 열람할 수 있는 상태를 뜻한다.",
+  "url": "https://diforum.org/update/261123.html",
+  "ai": true
+ },
+ {
   "no": "261122",
   "date": "2026-11-22",
   "category": "용어 한 줄",
@@ -258,15 +267,6 @@
   "title": "FDA HBV 지침, 검사 변경일과 이전 채혈 이력을 연결하세요",
   "summary": "HBV 검사 변경은 절차서·표시·시행일과 이전 채혈 이력까지 함께 관리해야 합니다.",
   "url": "https://diforum.org/update/261110-2.html",
-  "ai": true
- },
- {
-  "no": "261110",
-  "date": "2026-11-10",
-  "category": "규제 동향",
-  "title": "공유 계정은 데이터 완전성 위반 — Annex 11 개정 초안 #11",
-  "summary": "Annex 11 개정 초안 11장은 1인 1계정·최소 권한·정기 권한 검토를 요구합니다. 귀속성은 계정에서 시작됩니다.",
-  "url": "https://diforum.org/update/261110.html",
   "ai": true
  }
 ]
