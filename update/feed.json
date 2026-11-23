@@ -1,5 +1,14 @@
 [
  {
+  "no": "261124",
+  "date": "2026-11-24",
+  "category": "규제 동향",
+  "title": "PIC/S PI 058-1 발간, Annex 1 자체 점검 기준을 다시 맞추세요",
+  "summary": "PIC/S가 Annex 1 주요 변경사항 해석 문서 PI 058-1을 시행했으니, 우리 무균 제조 점검 기준과 대조해 보세요.",
+  "url": "https://diforum.org/update/261124.html",
+  "ai": true
+ },
+ {
   "no": "261123-3",
   "date": "2026-11-23",
   "category": "규제 동향",
@@ -258,15 +267,6 @@
   "title": "전자서명(Electronic Signature) — 서명 이미지와 헷갈리는 지점",
   "summary": "전자서명은 서명자·일시·의미가 기록에 연결돼야 하며, 서명 이미지나 로그인만으로는 부족하다.",
   "url": "https://diforum.org/update/261111.html",
-  "ai": true
- },
- {
-  "no": "261110-4",
-  "date": "2026-11-10",
-  "category": "규제 동향",
-  "title": "시스템 장애는 고치고 끝이 아닙니다 — ICH Q7 #5.46 인시던트",
-  "summary": "컴퓨터화 시스템 인시던트는 기록하고 조사해야 합니다. 원료의약품 GMP 기준 문서 ICH Q7 #5.4를 다시 읽습니다.",
-  "url": "https://diforum.org/update/261110-4.html",
   "ai": true
  }
 ]
