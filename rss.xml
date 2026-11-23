@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Mon, 23 Nov 2026 20:12:25 +0900</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 20:12:55 +0900</lastBuildDate>
+  <item>
+    <title>같은 mRNA 플랫폼이라도, 이번 변경의 근거는 따로 남겨야 합니다</title>
+    <link>https://diforum.org/update/261123-3.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261123-3.html</guid>
+    <pubDate>Mon, 23 Nov 2026 20:12:55 +0900</pubDate>
+    <category>규제 동향</category>
+    <description>플랫폼 자료 재사용은 자동 적용이 아니라 버전·범위·변경 근거의 연결에서 시작합니다.</description>
+  </item>
   <item>
     <title>무효화된 기준일탈(OOS) 200건, 답은 늘 '분석자 재교육' — FDA 경고장</title>
     <link>https://diforum.org/update/261123-2.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Tue, 10 Nov 2026 09:49:35 +0900</pubDate>
     <category>규제 동향</category>
     <description>컴퓨터화 시스템 인시던트는 기록하고 조사해야 합니다. 원료의약품 GMP 기준 문서 ICH Q7 #5.4를 다시 읽습니다.</description>
-  </item>
-  <item>
-    <title>백업(Backup) — 보존과 헷갈리고 복원은 빠뜨리는 지점</title>
-    <link>https://diforum.org/update/261110-3.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261110-3.html</guid>
-    <pubDate>Tue, 10 Nov 2026 00:42:25 +0900</pubDate>
-    <category>용어 한 줄</category>
-    <description>백업은 복구용 사본이며 보존과 다르다. 복사 성공 로그보다 복원해 읽히는지가 데이터 완전성을 가른다.</description>
   </item>
 </channel>
 </rss>
