@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Tue, 24 Nov 2026 01:21:29 +0900</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 01:21:56 +0900</lastBuildDate>
+  <item>
+    <title>추적성(Traceable) — 현장에서 헷갈리는 지점</title>
+    <link>https://diforum.org/update/261124-2.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261124-2.html</guid>
+    <pubDate>Tue, 24 Nov 2026 01:21:56 +0900</pubDate>
+    <category>용어 한 줄</category>
+    <description>추적성은 기록이 만들어지고 바뀌고 옮겨진 과정을 이어서 따라갈 수 있는 성질이다.</description>
+  </item>
   <item>
     <title>PIC/S PI 058-1 발간, Annex 1 자체 점검 기준을 다시 맞추세요</title>
     <link>https://diforum.org/update/261124.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Wed, 11 Nov 2026 20:32:22 +0900</pubDate>
     <category>규제 동향</category>
     <description>PIC/S는 밸리데이션만으로 데이터 완전성 위험이 낮아지지 않는다고 봅니다. 사람 손이 닿는 접점부터 평가하세요.</description>
-  </item>
-  <item>
-    <title>전자서명(Electronic Signature) — 서명 이미지와 헷갈리는 지점</title>
-    <link>https://diforum.org/update/261111.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261111.html</guid>
-    <pubDate>Wed, 11 Nov 2026 20:31:46 +0900</pubDate>
-    <category>용어 한 줄</category>
-    <description>전자서명은 서명자·일시·의미가 기록에 연결돼야 하며, 서명 이미지나 로그인만으로는 부족하다.</description>
   </item>
 </channel>
 </rss>
