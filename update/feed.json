@@ -1,5 +1,14 @@
 [
  {
+  "no": "261124-2",
+  "date": "2026-11-24",
+  "category": "용어 한 줄",
+  "title": "추적성(Traceable) — 현장에서 헷갈리는 지점",
+  "summary": "추적성은 기록이 만들어지고 바뀌고 옮겨진 과정을 이어서 따라갈 수 있는 성질이다.",
+  "url": "https://diforum.org/update/261124-2.html",
+  "ai": true
+ },
+ {
   "no": "261124",
   "date": "2026-11-24",
   "category": "규제 동향",
@@ -258,15 +267,6 @@
   "title": "위험 없음'은 평가가 없었다는 신호 — PIC/S PI 041-1 #5.5",
   "summary": "PIC/S는 밸리데이션만으로 데이터 완전성 위험이 낮아지지 않는다고 봅니다. 사람 손이 닿는 접점부터 평가하세요.",
   "url": "https://diforum.org/update/261111-2.html",
-  "ai": true
- },
- {
-  "no": "261111",
-  "date": "2026-11-11",
-  "category": "용어 한 줄",
-  "title": "전자서명(Electronic Signature) — 서명 이미지와 헷갈리는 지점",
-  "summary": "전자서명은 서명자·일시·의미가 기록에 연결돼야 하며, 서명 이미지나 로그인만으로는 부족하다.",
-  "url": "https://diforum.org/update/261111.html",
   "ai": true
  }
 ]
