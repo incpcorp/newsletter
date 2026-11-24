@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Tue, 24 Nov 2026 13:02:34 +0900</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 13:13:21 +0900</lastBuildDate>
+  <item>
+    <title>EMA 제조 AI 의제, 모델보다 의사결정 증거를 먼저 보세요</title>
+    <link>https://diforum.org/update/261124-4.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261124-4.html</guid>
+    <pubDate>Tue, 24 Nov 2026 13:13:21 +0900</pubDate>
+    <category>규제 동향</category>
+    <description>AI·디지털 트윈의 도입보다 위험평가·검증·사람의 판단 연결이 먼저입니다.</description>
+  </item>
   <item>
     <title>경고장이 요구한 '3년 소급 검토', PI 041-1 #12에 이미 있습니다</title>
     <link>https://diforum.org/update/261124-3.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Wed, 11 Nov 2026 20:33:39 +0900</pubDate>
     <category>용어 한 줄</category>
     <description>컴퓨터화 시스템은 기기 한 대가 아니라 소프트웨어·사람·절차까지 묶어 관리해야 하는 대상이다.</description>
-  </item>
-  <item>
-    <title>WHO 니트로사민 허용량, 치료기간 근거를 연결하세요</title>
-    <link>https://diforum.org/update/261111-3.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261111-3.html</guid>
-    <pubDate>Wed, 11 Nov 2026 20:32:54 +0900</pubDate>
-    <category>규제 동향</category>
-    <description>단기 투여 품목의 허용량 조정은 치료기간·최대 투여량·계산 근거를 함께 남겨야 합니다.</description>
   </item>
 </channel>
 </rss>
