@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Tue, 24 Nov 2026 01:21:56 +0900</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 13:02:34 +0900</lastBuildDate>
+  <item>
+    <title>경고장이 요구한 '3년 소급 검토', PI 041-1 #12에 이미 있습니다</title>
+    <link>https://diforum.org/update/261124-3.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261124-3.html</guid>
+    <pubDate>Tue, 24 Nov 2026 13:02:34 +0900</pubDate>
+    <category>규제 동향</category>
+    <description>데이터 완전성 문제가 드러났을 때 회사가 내놓아야 할 답의 뼈대 — 범위의 근거, 임시 조치, 효과 확인</description>
+  </item>
   <item>
     <title>추적성(Traceable) — 현장에서 헷갈리는 지점</title>
     <link>https://diforum.org/update/261124-2.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Wed, 11 Nov 2026 20:32:54 +0900</pubDate>
     <category>규제 동향</category>
     <description>단기 투여 품목의 허용량 조정은 치료기간·최대 투여량·계산 근거를 함께 남겨야 합니다.</description>
-  </item>
-  <item>
-    <title>위험 없음'은 평가가 없었다는 신호 — PIC/S PI 041-1 #5.5</title>
-    <link>https://diforum.org/update/261111-2.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261111-2.html</guid>
-    <pubDate>Wed, 11 Nov 2026 20:32:22 +0900</pubDate>
-    <category>규제 동향</category>
-    <description>PIC/S는 밸리데이션만으로 데이터 완전성 위험이 낮아지지 않는다고 봅니다. 사람 손이 닿는 접점부터 평가하세요.</description>
   </item>
 </channel>
 </rss>
