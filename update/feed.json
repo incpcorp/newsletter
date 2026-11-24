@@ -1,5 +1,14 @@
 [
  {
+  "no": "261124-4",
+  "date": "2026-11-24",
+  "category": "규제 동향",
+  "title": "EMA 제조 AI 의제, 모델보다 의사결정 증거를 먼저 보세요",
+  "summary": "AI·디지털 트윈의 도입보다 위험평가·검증·사람의 판단 연결이 먼저입니다.",
+  "url": "https://diforum.org/update/261124-4.html",
+  "ai": true
+ },
+ {
   "no": "261124-3",
   "date": "2026-11-24",
   "category": "규제 동향",
@@ -258,15 +267,6 @@
   "title": "컴퓨터화 시스템(Computerised System) — 현장에서 헷갈리는 지점",
   "summary": "컴퓨터화 시스템은 기기 한 대가 아니라 소프트웨어·사람·절차까지 묶어 관리해야 하는 대상이다.",
   "url": "https://diforum.org/update/261111-4.html",
-  "ai": true
- },
- {
-  "no": "261111-3",
-  "date": "2026-11-11",
-  "category": "규제 동향",
-  "title": "WHO 니트로사민 허용량, 치료기간 근거를 연결하세요",
-  "summary": "단기 투여 품목의 허용량 조정은 치료기간·최대 투여량·계산 근거를 함께 남겨야 합니다.",
-  "url": "https://diforum.org/update/261111-3.html",
   "ai": true
  }
 ]
