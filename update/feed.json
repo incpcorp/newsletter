@@ -1,5 +1,14 @@
 [
  {
+  "no": "261125",
+  "date": "2026-11-25",
+  "category": "규제 동향",
+  "title": "PIC/S GMP 가이드 PE 009-18 발효, 보관 시료 절차를 확인하세요",
+  "summary": "부속서 19 개정이 반영된 PE 009-18이 발효됐으니, 기준 시료·보관 시료 절차에 개정 내용이 반영됐는지 확인하세요.",
+  "url": "https://diforum.org/update/261125.html",
+  "ai": true
+ },
+ {
   "no": "261124-4",
   "date": "2026-11-24",
   "category": "규제 동향",
@@ -258,15 +267,6 @@
   "title": "기록 요청에 답하지 않은 두 제조소 — FDA 기록 접근 거부 경고장",
   "summary": "현장 실사 없이 기록 요청만으로 발행된 경고장 두 건. 생산 중단 통보로는 기록 제출 의무가 사라지지 않습니다.",
   "url": "https://diforum.org/update/261113.html",
-  "ai": true
- },
- {
-  "no": "261111-4",
-  "date": "2026-11-11",
-  "category": "용어 한 줄",
-  "title": "컴퓨터화 시스템(Computerised System) — 현장에서 헷갈리는 지점",
-  "summary": "컴퓨터화 시스템은 기기 한 대가 아니라 소프트웨어·사람·절차까지 묶어 관리해야 하는 대상이다.",
-  "url": "https://diforum.org/update/261111-4.html",
   "ai": true
  }
 ]
