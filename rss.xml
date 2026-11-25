@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Wed, 25 Nov 2026 23:49:26 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 23:50:46 +0900</lastBuildDate>
+  <item>
+    <title>적격성평가(Qualification) — 밸리데이션과 섞어 쓰는 지점</title>
+    <link>https://diforum.org/update/261125-3.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261125-3.html</guid>
+    <pubDate>Wed, 25 Nov 2026 23:50:46 +0900</pubDate>
+    <category>용어 한 줄</category>
+    <description>적격성평가는 밸리데이션의 일부로, 설비·장비가 용도에 맞는지 확인하고 그 근거를 남기는 활동이다.</description>
+  </item>
   <item>
     <title>FDA 세포·유전자 치료제 역가 보증 최종본, 전 공정 관리부터 점검하세요</title>
     <link>https://diforum.org/update/261125-2.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Fri, 13 Nov 2026 01:51:45 +0900</pubDate>
     <category>규제 동향</category>
     <description>PMDA 검증 엔진 변경을 계기로 규칙 버전과 실행 증거를 구분해 점검합니다.</description>
-  </item>
-  <item>
-    <title>기존 컴퓨터화 시스템(Legacy System) — 현장에서 헷갈리는 지점</title>
-    <link>https://diforum.org/update/261113-2.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261113-2.html</guid>
-    <pubDate>Fri, 13 Nov 2026 00:53:05 +0900</pubDate>
-    <category>용어 한 줄</category>
-    <description>오래된 시스템도 관리 대상이다. 교체·이관 때 기초 자료와 메타데이터가 함께 남아야 한다.</description>
   </item>
 </channel>
 </rss>
