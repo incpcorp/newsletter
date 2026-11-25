@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Tue, 24 Nov 2026 13:13:21 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 23:48:30 +0900</lastBuildDate>
+  <item>
+    <title>PIC/S GMP 가이드 PE 009-18 발효, 보관 시료 절차를 확인하세요</title>
+    <link>https://diforum.org/update/261125.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261125.html</guid>
+    <pubDate>Wed, 25 Nov 2026 23:48:30 +0900</pubDate>
+    <category>규제 동향</category>
+    <description>부속서 19 개정이 반영된 PE 009-18이 발효됐으니, 기준 시료·보관 시료 절차에 개정 내용이 반영됐는지 확인하세요.</description>
+  </item>
   <item>
     <title>EMA 제조 AI 의제, 모델보다 의사결정 증거를 먼저 보세요</title>
     <link>https://diforum.org/update/261124-4.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Fri, 13 Nov 2026 00:52:27 +0900</pubDate>
     <category>사례 노트</category>
     <description>현장 실사 없이 기록 요청만으로 발행된 경고장 두 건. 생산 중단 통보로는 기록 제출 의무가 사라지지 않습니다.</description>
-  </item>
-  <item>
-    <title>컴퓨터화 시스템(Computerised System) — 현장에서 헷갈리는 지점</title>
-    <link>https://diforum.org/update/261111-4.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261111-4.html</guid>
-    <pubDate>Wed, 11 Nov 2026 20:33:39 +0900</pubDate>
-    <category>용어 한 줄</category>
-    <description>컴퓨터화 시스템은 기기 한 대가 아니라 소프트웨어·사람·절차까지 묶어 관리해야 하는 대상이다.</description>
   </item>
 </channel>
 </rss>
