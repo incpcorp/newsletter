@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Wed, 25 Nov 2026 23:54:34 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 23:56:26 +0900</lastBuildDate>
+  <item>
+    <title>설계적격성평가(Design Qualification) — 현장에서 헷갈리는 지점</title>
+    <link>https://diforum.org/update/261125-5.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261125-5.html</guid>
+    <pubDate>Wed, 25 Nov 2026 23:56:26 +0900</pubDate>
+    <category>용어 한 줄</category>
+    <description>설계적격성평가는 사양서를 받아 두는 일이 아니라, 구매 전에 요구사항과 설계를 대조해 기록으로 남기는 확인이다.</description>
+  </item>
   <item>
     <title>내부에서 찾은 데이터 완전성 문제, 일탈로 다루세요 — PI 041-1 #6.7</title>
     <link>https://diforum.org/update/261125-4.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Sat, 14 Nov 2026 19:03:31 +0900</pubDate>
     <category>용어 한 줄</category>
     <description>기록을 누가, 언제 남겼는지 특정인에게 이어지는 것이 귀속성입니다. 서명 한 줄이 아니라 기록 전체에 걸린 조건입니다.</description>
-  </item>
-  <item>
-    <title>공급자 데이터 완전성은 서류로 끝나지 않습니다 — PI 041-1 #7.8.4</title>
-    <link>https://diforum.org/update/261113-4.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261113-4.html</guid>
-    <pubDate>Fri, 13 Nov 2026 23:04:37 +0900</pubDate>
-    <category>규제 동향</category>
-    <description>PI 041-1 #7.8.4: 요약 데이터를 받기 전 공급자의 데이터 완전성 준수를 평가하되, 책상 평가만으로는 안 됩니다.</description>
   </item>
 </channel>
 </rss>
