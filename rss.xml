@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Wed, 25 Nov 2026 23:50:46 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 23:54:34 +0900</lastBuildDate>
+  <item>
+    <title>내부에서 찾은 데이터 완전성 문제, 일탈로 다루세요 — PI 041-1 #6.7</title>
+    <link>https://diforum.org/update/261125-4.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261125-4.html</guid>
+    <pubDate>Wed, 25 Nov 2026 23:54:34 +0900</pubDate>
+    <category>규제 동향</category>
+    <description>PI 041-1 #6.7: 내부에서 찾은 데이터 완전성 결함은 일탈처럼 다루고, 범위와 근본 원인부터 밝힙니다.</description>
+  </item>
   <item>
     <title>적격성평가(Qualification) — 밸리데이션과 섞어 쓰는 지점</title>
     <link>https://diforum.org/update/261125-3.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Fri, 13 Nov 2026 23:04:37 +0900</pubDate>
     <category>규제 동향</category>
     <description>PI 041-1 #7.8.4: 요약 데이터를 받기 전 공급자의 데이터 완전성 준수를 평가하되, 책상 평가만으로는 안 됩니다.</description>
-  </item>
-  <item>
-    <title>PMDA 검증 엔진 변경, 규칙과 실행환경을 따로 기록하세요</title>
-    <link>https://diforum.org/update/261113-3.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261113-3.html</guid>
-    <pubDate>Fri, 13 Nov 2026 01:51:45 +0900</pubDate>
-    <category>규제 동향</category>
-    <description>PMDA 검증 엔진 변경을 계기로 규칙 버전과 실행 증거를 구분해 점검합니다.</description>
   </item>
 </channel>
 </rss>
