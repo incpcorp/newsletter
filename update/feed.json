@@ -1,5 +1,14 @@
 [
  {
+  "no": "261125-3",
+  "date": "2026-11-25",
+  "category": "용어 한 줄",
+  "title": "적격성평가(Qualification) — 밸리데이션과 섞어 쓰는 지점",
+  "summary": "적격성평가는 밸리데이션의 일부로, 설비·장비가 용도에 맞는지 확인하고 그 근거를 남기는 활동이다.",
+  "url": "https://diforum.org/update/261125-3.html",
+  "ai": true
+ },
+ {
   "no": "261125-2",
   "date": "2026-11-25",
   "category": "규제 동향",
@@ -258,15 +267,6 @@
   "title": "PMDA 검증 엔진 변경, 규칙과 실행환경을 따로 기록하세요",
   "summary": "PMDA 검증 엔진 변경을 계기로 규칙 버전과 실행 증거를 구분해 점검합니다.",
   "url": "https://diforum.org/update/261113-3.html",
-  "ai": true
- },
- {
-  "no": "261113-2",
-  "date": "2026-11-13",
-  "category": "용어 한 줄",
-  "title": "기존 컴퓨터화 시스템(Legacy System) — 현장에서 헷갈리는 지점",
-  "summary": "오래된 시스템도 관리 대상이다. 교체·이관 때 기초 자료와 메타데이터가 함께 남아야 한다.",
-  "url": "https://diforum.org/update/261113-2.html",
   "ai": true
  }
 ]
