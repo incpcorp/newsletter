@@ -1,5 +1,14 @@
 [
  {
+  "no": "261126",
+  "date": "2026-11-26",
+  "category": "규제 동향",
+  "title": "FDA CGT 역가 보증, 출하시험 한 번으로 끝나지 않습니다",
+  "summary": "역가는 시험값 하나가 아니라 공정·원자재·변경관리로 이어지는 전주기 증거입니다.",
+  "url": "https://diforum.org/update/261126.html",
+  "ai": true
+ },
+ {
   "no": "261125-5",
   "date": "2026-11-25",
   "category": "용어 한 줄",
@@ -258,15 +267,6 @@
   "title": "가독성(Legible) — 사본으로 옮겨도 읽히는가",
   "summary": "가독성은 글씨 모양만이 아니라, 기록을 보관 기간 내내 맥락과 함께 읽고 이해할 수 있느냐의 문제다.",
   "url": "https://diforum.org/update/261116.html",
-  "ai": true
- },
- {
-  "no": "261114",
-  "date": "2026-11-14",
-  "category": "용어 한 줄",
-  "title": "귀속성(Attributable) — 서명만 있으면 되는 게 아닌 이유",
-  "summary": "기록을 누가, 언제 남겼는지 특정인에게 이어지는 것이 귀속성입니다. 서명 한 줄이 아니라 기록 전체에 걸린 조건입니다.",
-  "url": "https://diforum.org/update/261114.html",
   "ai": true
  }
 ]
