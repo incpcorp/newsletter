@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Thu, 26 Nov 2026 09:17:05 +0900</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 09:17:31 +0900</lastBuildDate>
+  <item>
+    <title>2021년 데이터, 조사는 2025년 — 추세를 읽지 않은 제조소 FDA 경고장</title>
+    <link>https://diforum.org/update/261126-2.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261126-2.html</guid>
+    <pubDate>Thu, 26 Nov 2026 09:17:31 +0900</pubDate>
+    <category>사례 노트</category>
+    <description>용출 저하를 보여 주는 데이터는 4년 전부터 있었습니다. 기록을 보관하는 것과 읽는 것은 다릅니다.</description>
+  </item>
   <item>
     <title>FDA CGT 역가 보증, 출하시험 한 번으로 끝나지 않습니다</title>
     <link>https://diforum.org/update/261126.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Mon, 16 Nov 2026 11:03:54 +0900</pubDate>
     <category>규제 동향</category>
     <description>서식에 고유 번호·판·발행 대장·사용 후 대조가 없으면 '그때 그 한 장'임을 보여 줄 수 없습니다.</description>
-  </item>
-  <item>
-    <title>가독성(Legible) — 사본으로 옮겨도 읽히는가</title>
-    <link>https://diforum.org/update/261116.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261116.html</guid>
-    <pubDate>Mon, 16 Nov 2026 10:51:46 +0900</pubDate>
-    <category>용어 한 줄</category>
-    <description>가독성은 글씨 모양만이 아니라, 기록을 보관 기간 내내 맥락과 함께 읽고 이해할 수 있느냐의 문제다.</description>
   </item>
 </channel>
 </rss>
