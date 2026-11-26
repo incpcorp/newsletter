@@ -23,14 +23,6 @@
     <description>용출 저하를 보여 주는 데이터는 4년 전부터 있었습니다. 기록을 보관하는 것과 읽는 것은 다릅니다.</description>
   </item>
   <item>
-    <title>FDA CGT 역가 보증, 출하시험 한 번으로 끝나지 않습니다</title>
-    <link>https://diforum.org/update/261126.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261126.html</guid>
-    <pubDate>Thu, 26 Nov 2026 09:17:05 +0900</pubDate>
-    <category>규제 동향</category>
-    <description>역가는 시험값 하나가 아니라 공정·원자재·변경관리로 이어지는 전주기 증거입니다.</description>
-  </item>
-  <item>
     <title>설계적격성평가(Design Qualification) — 현장에서 헷갈리는 지점</title>
     <link>https://diforum.org/update/261125-5.html</link>
     <guid isPermaLink="true">https://diforum.org/update/261125-5.html</guid>
@@ -245,6 +237,14 @@
     <pubDate>Mon, 16 Nov 2026 11:05:43 +0900</pubDate>
     <category>규제 동향</category>
     <description>EMA 초안은 초기 임신손실과 비출생 결과까지 포함한 결과보고의 완전성을 강조합니다.</description>
+  </item>
+  <item>
+    <title>빈 양식은 꺼내는 순간부터 기록입니다 — PIC/S PI 041-1 #8.4</title>
+    <link>https://diforum.org/update/261116-2.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261116-2.html</guid>
+    <pubDate>Mon, 16 Nov 2026 11:03:54 +0900</pubDate>
+    <category>규제 동향</category>
+    <description>서식에 고유 번호·판·발행 대장·사용 후 대조가 없으면 '그때 그 한 장'임을 보여 줄 수 없습니다.</description>
   </item>
 </channel>
 </rss>
