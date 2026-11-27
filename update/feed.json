@@ -1,5 +1,14 @@
 [
  {
+  "no": "261127-3",
+  "date": "2026-11-27",
+  "category": "규제 동향",
+  "title": "EMA 품질 비교 Q&A, 통계계획을 시험 전에 승인하세요",
+  "summary": "동등성 비교는 결과표가 아니라 사전 승인된 통계·표본·시험법 계획에서 시작합니다.",
+  "url": "https://diforum.org/update/261127-3.html",
+  "ai": true
+ },
+ {
   "no": "261127-2",
   "date": "2026-11-27",
   "category": "규제 동향",
@@ -258,15 +267,6 @@
   "title": "동시성(Contemporaneous) — 날짜만 맞춘 기록과의 차이",
   "summary": "동시성은 작업하는 그 시점에 기록하라는 요건으로, 날짜만 맞춘 사후 기록과는 다르다.",
   "url": "https://diforum.org/update/261118-2.html",
-  "ai": true
- },
- {
-  "no": "261118",
-  "date": "2026-11-18",
-  "category": "규제 동향",
-  "title": "EMA 이상약물반응 보고 품질 초안, 원문 확인 후 절차를 점검하세요",
-  "summary": "EMA가 이상약물반응 보고의 수집·관리·제출용 데이터 품질 프레임워크 초안을 의견수렴에 부쳤으니 원문부터 확인하세요.",
-  "url": "https://diforum.org/update/261118.html",
   "ai": true
  }
 ]
