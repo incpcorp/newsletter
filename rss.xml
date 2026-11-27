@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Fri, 27 Nov 2026 09:13:45 +0900</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 09:14:13 +0900</lastBuildDate>
+  <item>
+    <title>데이터 완전성 지적은 어떻게 등급이 매겨지나 — PI 041-1 #11.2</title>
+    <link>https://diforum.org/update/261127-2.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261127-2.html</guid>
+    <pubDate>Fri, 27 Nov 2026 09:14:13 +0900</pubDate>
+    <category>규제 동향</category>
+    <description>PIC/S는 위조 여부만이 아니라 제품·환자 영향과 범위로 중대·주요·기타를 나눕니다. 자율점검 등급표부터 맞추세요.</description>
+  </item>
   <item>
     <title>설치적격성평가(IQ) — 설치했다와 확인했다는 다르다</title>
     <link>https://diforum.org/update/261127.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Wed, 18 Nov 2026 06:55:38 +0900</pubDate>
     <category>규제 동향</category>
     <description>EMA가 이상약물반응 보고의 수집·관리·제출용 데이터 품질 프레임워크 초안을 의견수렴에 부쳤으니 원문부터 확인하세요.</description>
-  </item>
-  <item>
-    <title>EMA 임신안전성 초안, 출생 결과만 모으면 위험이 작아집니다</title>
-    <link>https://diforum.org/update/261116-3.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261116-3.html</guid>
-    <pubDate>Mon, 16 Nov 2026 11:05:43 +0900</pubDate>
-    <category>규제 동향</category>
-    <description>EMA 초안은 초기 임신손실과 비출생 결과까지 포함한 결과보고의 완전성을 강조합니다.</description>
   </item>
 </channel>
 </rss>
