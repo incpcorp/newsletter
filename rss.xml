@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Fri, 27 Nov 2026 09:14:13 +0900</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 09:15:38 +0900</lastBuildDate>
+  <item>
+    <title>EMA 품질 비교 Q&amp;A, 통계계획을 시험 전에 승인하세요</title>
+    <link>https://diforum.org/update/261127-3.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261127-3.html</guid>
+    <pubDate>Fri, 27 Nov 2026 09:15:38 +0900</pubDate>
+    <category>규제 동향</category>
+    <description>동등성 비교는 결과표가 아니라 사전 승인된 통계·표본·시험법 계획에서 시작합니다.</description>
+  </item>
   <item>
     <title>데이터 완전성 지적은 어떻게 등급이 매겨지나 — PI 041-1 #11.2</title>
     <link>https://diforum.org/update/261127-2.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Wed, 18 Nov 2026 06:56:19 +0900</pubDate>
     <category>용어 한 줄</category>
     <description>동시성은 작업하는 그 시점에 기록하라는 요건으로, 날짜만 맞춘 사후 기록과는 다르다.</description>
-  </item>
-  <item>
-    <title>EMA 이상약물반응 보고 품질 초안, 원문 확인 후 절차를 점검하세요</title>
-    <link>https://diforum.org/update/261118.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261118.html</guid>
-    <pubDate>Wed, 18 Nov 2026 06:55:38 +0900</pubDate>
-    <category>규제 동향</category>
-    <description>EMA가 이상약물반응 보고의 수집·관리·제출용 데이터 품질 프레임워크 초안을 의견수렴에 부쳤으니 원문부터 확인하세요.</description>
   </item>
 </channel>
 </rss>
