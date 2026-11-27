@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Thu, 26 Nov 2026 09:18:04 +0900</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 09:13:45 +0900</lastBuildDate>
+  <item>
+    <title>설치적격성평가(IQ) — 설치했다와 확인했다는 다르다</title>
+    <link>https://diforum.org/update/261127.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261127.html</guid>
+    <pubDate>Fri, 27 Nov 2026 09:13:45 +0900</pubDate>
+    <category>용어 한 줄</category>
+    <description>설치적격성평가(IQ)는 장비가 승인된 사양대로 설치됐는지 기록으로 확인하는 단계이며, 설치 완료 보고와는 다르다.</description>
+  </item>
   <item>
     <title>FDA EAST, 신속 선별과 확인시험을 구분하세요</title>
     <link>https://diforum.org/update/261126-3.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Mon, 16 Nov 2026 11:05:43 +0900</pubDate>
     <category>규제 동향</category>
     <description>EMA 초안은 초기 임신손실과 비출생 결과까지 포함한 결과보고의 완전성을 강조합니다.</description>
-  </item>
-  <item>
-    <title>빈 양식은 꺼내는 순간부터 기록입니다 — PIC/S PI 041-1 #8.4</title>
-    <link>https://diforum.org/update/261116-2.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261116-2.html</guid>
-    <pubDate>Mon, 16 Nov 2026 11:03:54 +0900</pubDate>
-    <category>규제 동향</category>
-    <description>서식에 고유 번호·판·발행 대장·사용 후 대조가 없으면 '그때 그 한 장'임을 보여 줄 수 없습니다.</description>
   </item>
 </channel>
 </rss>
