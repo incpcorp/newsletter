@@ -33,6 +33,7 @@ INCLUDE = [
     r'update/[^/]+\.html',               # DI 동향 글·목록
     r'forum/[^/]+\.html',
     r'library/(?:[^/]+/)?index\.html',
+    r'en/index\.html',                   # 영문 소개(2026-11-27)
 ]
 RSS_ITEM = r'update/[0-9]{6}(?:-[0-9]+)?\.html'   # RSS에는 DI 동향 글만
 SAFE_PATH = re.compile(r'[A-Za-z0-9._-]+(?:/[A-Za-z0-9._-]+)*')   # URL에 그대로 쓸 수 있는 경로만

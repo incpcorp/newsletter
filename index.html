@@ -1,6 +1,7 @@
 <!DOCTYPE html><html lang="ko"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<link rel="canonical" href="https://diforum.org/"><title>DI Forum | Data Integrity Forum · 데이터 완전성 뉴스레터</title>
+<link rel="canonical" href="https://diforum.org/">
+<link rel="alternate" hreflang="ko" href="https://diforum.org/"><link rel="alternate" hreflang="en" href="https://diforum.org/en/"><link rel="alternate" hreflang="x-default" href="https://diforum.org/"><title>DI Forum | Data Integrity Forum · 데이터 완전성 뉴스레터</title>
 <meta name="description" content="DI Forum (Data Integrity Forum) — Pharma 4.0 시대의 데이터 완전성·품질·ESG를 잇는 공개 뉴스레터와 자료. Operated by i&amp;CP">
 <meta property="og:title" content="DI Forum · Data Integrity Forum">
 <meta property="og:description" content="데이터 완전성 뉴스레터 · 규제 동향 · 공개 자료 — Operated by i&amp;CP">
@@ -90,6 +91,11 @@ footer{text-align:center;font-size:13px;color:var(--grey);padding:28px 20px 44px
 <style>
 .sc:nth-child(7) .ci::before{background:linear-gradient(135deg,#685890,#5fd3b0)}
 .more{font-size:14px;font-weight:700;color:var(--purple);text-decoration:none}
+/* 언어 선택(한국어·EN, 2026-11-27) */
+.topnav{margin-left:auto}
+.lang{display:inline-flex;align-items:center;border:1px solid rgba(255,255,255,.3);border-radius:999px;overflow:hidden;font-size:13px;font-weight:800;flex:none}
+.lang a,.lang span{padding:5px 11px;text-decoration:none;color:#d6d1e8}.lang a:hover{color:#fff;background:rgba(255,255,255,.1)}
+.lang [aria-current]{background:var(--teal);color:#fff}
 .fsec{margin-top:40px}.fsec .sec{margin-bottom:14px}
 .dsec{margin-top:40px}.dsec .sec{margin-bottom:14px}.dsec .more{white-space:nowrap}.dsec .sec h2 small{font-size:14px;color:var(--grey);font-weight:600;margin-left:8px;letter-spacing:0}
 .dlist{background:#fff;border:1px solid var(--line);border-top:4px solid var(--teal);border-radius:16px;overflow:hidden}
@@ -134,7 +140,8 @@ footer{text-align:center;font-size:13px;color:var(--grey);padding:28px 20px 44px
 <div class="wrap">
  <div class="top">
   <a class="dlogo" href="index.html" aria-label="DI Forum 홈"><svg class="dmk" viewBox="8 8 90 90" width="44" height="44" aria-hidden="true" style="flex:none"><circle cx="40" cy="62" r="19" fill="none" stroke="#fff" stroke-width="15"/><rect x="52" y="14" width="15" height="67.5" rx="7.5" fill="#fff"/><rect x="52" y="60" width="15" height="21.5" fill="#fff"/><rect x="76" y="43" width="15" height="38.5" rx="7.5" fill="#fff"/><circle cx="83.5" cy="26.5" r="8.5" fill="#38B2B2"/></svg><span class="dv"></span><span class="dtx"><b>DI <i>Forum</i></b><small>DATA INTEGRITY FORUM</small></span></a>
-  <nav class="topnav"><a href="#issues">Newsletter</a><a href="update/index.html">DI 동향</a><a href="forum/index.html">Forum</a><a href="library/index.html">자료실</a><a href="#subscribe">구독</a><a href="https://incpcorp.diforum.org" target="_blank" rel="noopener">I&amp;CP ↗</a></nav>
+  <nav class="topnav" aria-label="주 메뉴"><a href="#issues">Newsletter</a><a href="update/index.html">DI 동향</a><a href="forum/index.html">Forum</a><a href="library/index.html">자료실</a><a href="#subscribe">구독</a><a href="https://incpcorp.diforum.org" target="_blank" rel="noopener">I&amp;CP ↗</a></nav>
+  <nav class="lang" aria-label="언어 선택"><span aria-current="true">한국어</span><a href="en/" hreflang="en" lang="en">EN</a></nav>
  </div>
  <div class="hin">
   <span class="kick"><i></i>Data Governance · Pharma 4.0 · Quality Culture</span>
