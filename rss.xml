@@ -5,7 +5,15 @@
   <link>https://diforum.org/</link>
   <description>데이터 완전성(Data Integrity) 규제 동향과 실무 해설 — DI Forum, Operated by i&amp;CP</description>
   <language>ko</language>
-  <lastBuildDate>Fri, 27 Nov 2026 09:15:38 +0900</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 09:21:05 +0900</lastBuildDate>
+  <item>
+    <title>식약처 무균의약품 GMP 가이드라인 2종, 첨부 자료로 적용 범위부터 확인하세요</title>
+    <link>https://diforum.org/update/261128.html</link>
+    <guid isPermaLink="true">https://diforum.org/update/261128.html</guid>
+    <pubDate>Sat, 28 Nov 2026 09:21:05 +0900</pubDate>
+    <category>규제 동향</category>
+    <description>식약처가 무균의약품 GMP 이행지원 가이드라인 2종을 제정했으니, 첨부 보도참고자료로 범위를 확인하세요.</description>
+  </item>
   <item>
     <title>EMA 품질 비교 Q&amp;A, 통계계획을 시험 전에 승인하세요</title>
     <link>https://diforum.org/update/261127-3.html</link>
@@ -237,14 +245,6 @@
     <pubDate>Wed, 18 Nov 2026 06:57:41 +0900</pubDate>
     <category>사례 노트</category>
     <description>무균시험·배지충전·EM 결과를 '대리 지표'라 부른 FDA — 기록은 그때 통제됐다는 증거여야 합니다</description>
-  </item>
-  <item>
-    <title>동시성(Contemporaneous) — 날짜만 맞춘 기록과의 차이</title>
-    <link>https://diforum.org/update/261118-2.html</link>
-    <guid isPermaLink="true">https://diforum.org/update/261118-2.html</guid>
-    <pubDate>Wed, 18 Nov 2026 06:56:19 +0900</pubDate>
-    <category>용어 한 줄</category>
-    <description>동시성은 작업하는 그 시점에 기록하라는 요건으로, 날짜만 맞춘 사후 기록과는 다르다.</description>
   </item>
 </channel>
 </rss>
